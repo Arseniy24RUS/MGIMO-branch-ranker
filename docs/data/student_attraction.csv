@@ -1,0 +1,218 @@
+﻿iso3,country,model,student_attraction_index,rank_practical_student_recruitment,rank_reference_all,student_recruitment_status
+NGA,Nigeria,SAI_MGIMO_V3,72.32919317075454,1.0,1.0,practical_priority_pool
+GNQ,Equatorial Guinea,SAI_MGIMO_V3,71.34140402871041,2.0,2.0,practical_priority_pool
+COD,"Congo, Dem. Rep.",SAI_MGIMO_V3,70.31333794542492,3.0,3.0,practical_priority_pool
+EGY,"Egypt, Arab Rep.",SAI_MGIMO_V3,69.95294946432622,4.0,4.0,practical_priority_pool
+ARE,United Arab Emirates,SAI_MGIMO_V3,68.61664641924182,5.0,5.0,practical_priority_pool
+DJI,Djibouti,SAI_MGIMO_V3,68.61476962194496,6.0,6.0,practical_priority_pool
+TZA,Tanzania,SAI_MGIMO_V3,68.5578801610842,7.0,7.0,practical_priority_pool
+MWI,Malawi,SAI_MGIMO_V3,68.24095343481251,8.0,8.0,practical_priority_pool
+TCD,Chad,SAI_MGIMO_V3,68.11748858521264,9.0,9.0,practical_priority_pool
+MEX,Mexico,SAI_MGIMO_V3,68.05669582769028,10.0,10.0,practical_priority_pool
+AGO,Angola,SAI_MGIMO_V3,68.02352450369692,11.0,11.0,practical_priority_pool
+PHL,Philippines,SAI_MGIMO_V3,67.53355794087017,12.0,12.0,practical_priority_pool
+IRQ,Iraq,SAI_MGIMO_V3,67.45911853297955,13.0,13.0,practical_priority_pool
+ETH,Ethiopia,SAI_MGIMO_V3,67.29851129305963,14.0,14.0,practical_priority_pool
+KEN,Kenya,SAI_MGIMO_V3,67.25766156735719,15.0,15.0,practical_priority_pool
+SEN,Senegal,SAI_MGIMO_V3,66.94120439476123,16.0,16.0,practical_priority_pool
+PAK,Pakistan,SAI_MGIMO_V3,66.85323875892492,17.0,17.0,practical_priority_pool
+TUR,Türkiye,SAI_MGIMO_V3,66.83903462891713,18.0,18.0,practical_priority_pool
+CIV,Côte d'Ivoire,SAI_MGIMO_V3,66.70200004069213,19.0,19.0,practical_priority_pool
+UGA,Uganda,SAI_MGIMO_V3,66.68218756401333,20.0,20.0,practical_priority_pool
+IDN,Indonesia,SAI_MGIMO_V3,66.66427539264215,21.0,21.0,practical_priority_pool
+IND,India,SAI_MGIMO_V3,66.5511548555709,22.0,22.0,practical_priority_pool
+MYS,Malaysia,SAI_MGIMO_V3,66.45117786541492,23.0,23.0,practical_priority_pool
+MRT,Mauritania,SAI_MGIMO_V3,66.27414567141703,24.0,24.0,practical_priority_pool
+MLI,Mali,SAI_MGIMO_V3,66.03584890975482,25.0,25.0,practical_priority_pool
+KWT,Kuwait,SAI_MGIMO_V3,65.92862822399222,26.0,26.0,practical_priority_pool
+GHA,Ghana,SAI_MGIMO_V3,65.75291399365472,27.0,27.0,practical_priority_pool
+CMR,Cameroon,SAI_MGIMO_V3,65.64323238615921,28.0,28.0,practical_priority_pool
+BRA,Brazil,SAI_MGIMO_V3,65.46024420692619,29.0,29.0,practical_priority_pool
+NER,Niger,SAI_MGIMO_V3,65.45871155414818,30.0,30.0,practical_priority_pool
+GAB,Gabon,SAI_MGIMO_V3,65.40324889333678,31.0,31.0,practical_priority_pool
+VNM,Viet Nam,SAI_MGIMO_V3,65.18194912428332,32.0,32.0,in_preparation_but_ranked
+BGD,Bangladesh,SAI_MGIMO_V3,65.1797635265477,33.0,33.0,practical_priority_pool
+CHN,China,SAI_MGIMO_V3,65.13250586201673,34.0,34.0,practical_priority_pool
+SYR,Syrian Arab Republic,SAI_MGIMO_V3,65.11820499438011,35.0,35.0,practical_priority_pool
+ISR,Israel,SAI_MGIMO_V3,65.06209061573888,36.0,36.0,practical_priority_pool
+COG,"Congo, Rep.",SAI_MGIMO_V3,64.97943902554864,37.0,37.0,practical_priority_pool
+JOR,Jordan,SAI_MGIMO_V3,64.52757121725271,38.0,38.0,practical_priority_pool
+KAZ,Kazakhstan,SAI_MGIMO_V3,64.50898095731968,39.0,39.0,practical_priority_pool
+ZMB,Zambia,SAI_MGIMO_V3,64.34883111260079,40.0,40.0,practical_priority_pool
+AFG,Afghanistan,SAI_MGIMO_V3,64.06633138808587,41.0,41.0,practical_priority_pool
+ZWE,Zimbabwe,SAI_MGIMO_V3,63.9319933088282,42.0,42.0,practical_priority_pool
+BFA,Burkina Faso,SAI_MGIMO_V3,63.54669084692048,43.0,43.0,practical_priority_pool
+PER,Peru,SAI_MGIMO_V3,63.30610449583334,44.0,44.0,practical_priority_pool
+ARG,Argentina,SAI_MGIMO_V3,63.13261172865426,45.0,45.0,practical_priority_pool
+SAU,Saudi Arabia,SAI_MGIMO_V3,63.05997397148423,46.0,46.0,practical_priority_pool
+MOZ,Mozambique,SAI_MGIMO_V3,63.02807288222415,47.0,47.0,practical_priority_pool
+COL,Colombia,SAI_MGIMO_V3,63.01234925621409,48.0,48.0,practical_priority_pool
+UZB,Uzbekistan,SAI_MGIMO_V3,62.79527590926892,49.0,49.0,practical_priority_pool
+ZAF,South Africa,SAI_MGIMO_V3,62.73053666827839,50.0,50.0,practical_priority_pool
+YEM,"Yemen, Rep.",SAI_MGIMO_V3,62.68110542607593,51.0,51.0,practical_priority_pool
+TKM,Turkmenistan,SAI_MGIMO_V3,62.58775076191814,52.0,52.0,practical_priority_pool
+THA,Thailand,SAI_MGIMO_V3,62.58665586030424,53.0,53.0,practical_priority_pool
+MAR,Morocco,SAI_MGIMO_V3,62.42634725294944,54.0,54.0,practical_priority_pool
+RWA,Rwanda,SAI_MGIMO_V3,62.1388630388478,55.0,55.0,practical_priority_pool
+BEN,Benin,SAI_MGIMO_V3,62.09206359428174,56.0,56.0,practical_priority_pool
+IRN,"Iran, Islamic Rep.",SAI_MGIMO_V3,62.04681551862843,57.0,57.0,practical_priority_pool
+SDN,Sudan,SAI_MGIMO_V3,61.9292434336092,58.0,58.0,practical_priority_pool
+OMN,Oman,SAI_MGIMO_V3,61.53516340442353,59.0,59.0,practical_priority_pool
+MDG,Madagascar,SAI_MGIMO_V3,61.255843403244505,60.0,60.0,practical_priority_pool
+DZA,Algeria,SAI_MGIMO_V3,61.180776489572494,61.0,61.0,practical_priority_pool
+LKA,Sri Lanka,SAI_MGIMO_V3,61.13902973735505,62.0,62.0,practical_priority_pool
+GIN,Guinea,SAI_MGIMO_V3,60.90355229357945,63.0,63.0,practical_priority_pool
+BDI,Burundi,SAI_MGIMO_V3,60.88404510415803,64.0,64.0,practical_priority_pool
+GTM,Guatemala,SAI_MGIMO_V3,60.09574051629457,65.0,65.0,practical_priority_pool
+NPL,Nepal,SAI_MGIMO_V3,60.0050931284797,66.0,66.0,practical_priority_pool
+GNB,Guinea-Bissau,SAI_MGIMO_V3,59.92934147039337,67.0,67.0,practical_priority_pool
+BTN,Bhutan,SAI_MGIMO_V3,59.73562139172097,68.0,68.0,practical_priority_pool
+TGO,Togo,SAI_MGIMO_V3,59.66808935729687,69.0,69.0,practical_priority_pool
+ECU,Ecuador,SAI_MGIMO_V3,59.32890819927359,70.0,70.0,practical_priority_pool
+COM,Comoros,SAI_MGIMO_V3,59.02439759707752,71.0,71.0,practical_priority_pool
+LBY,Libya,SAI_MGIMO_V3,58.80744580525983,72.0,72.0,practical_priority_pool
+VEN,"Venezuela, RB",SAI_MGIMO_V3,58.70548349779862,73.0,73.0,practical_priority_pool
+DOM,Dominican Republic,SAI_MGIMO_V3,58.54967003897246,74.0,74.0,practical_priority_pool
+SLE,Sierra Leone,SAI_MGIMO_V3,58.43873783853953,75.0,75.0,practical_priority_pool
+CHL,Chile,SAI_MGIMO_V3,58.36937561013145,76.0,76.0,practical_priority_pool
+GMB,"Gambia, The",SAI_MGIMO_V3,58.13939467216896,77.0,77.0,practical_priority_pool
+KHM,Cambodia,SAI_MGIMO_V3,57.7316915756736,78.0,78.0,practical_priority_pool
+AZE,Azerbaijan,SAI_MGIMO_V3,57.60055040313408,79.0,79.0,practical_priority_pool
+PAN,Panama,SAI_MGIMO_V3,57.22886766423547,80.0,80.0,practical_priority_pool
+MMR,Myanmar,SAI_MGIMO_V3,57.12131240277243,81.0,81.0,practical_priority_pool
+HND,Honduras,SAI_MGIMO_V3,56.97180232951352,82.0,82.0,practical_priority_pool
+KGZ,Kyrgyz Republic,SAI_MGIMO_V3,56.87596013605104,83.0,83.0,practical_priority_pool
+ERI,Eritrea,SAI_MGIMO_V3,56.73293729388368,84.0,84.0,practical_priority_pool
+LBR,Liberia,SAI_MGIMO_V3,56.14202600322755,85.0,85.0,practical_priority_pool
+BHR,Bahrain,SAI_MGIMO_V3,55.80431512851591,86.0,86.0,practical_priority_pool
+TUN,Tunisia,SAI_MGIMO_V3,55.63102657709776,87.0,87.0,practical_priority_pool
+TJK,Tajikistan,SAI_MGIMO_V3,55.38358072226755,88.0,88.0,practical_priority_pool
+SYC,Seychelles,SAI_MGIMO_V3,55.32323222529823,89.0,89.0,practical_priority_pool
+LAO,Lao PDR,SAI_MGIMO_V3,55.27030059333711,90.0,90.0,practical_priority_pool
+CAF,Central African Republic,SAI_MGIMO_V3,55.09474971092685,91.0,91.0,practical_priority_pool
+SUR,Suriname,SAI_MGIMO_V3,55.09356494252049,92.0,92.0,practical_priority_pool
+SWZ,Eswatini,SAI_MGIMO_V3,54.733585886646495,93.0,93.0,practical_priority_pool
+TTO,Trinidad and Tobago,SAI_MGIMO_V3,54.68464579507378,94.0,94.0,practical_priority_pool
+GUY,Guyana,SAI_MGIMO_V3,54.5623811626248,95.0,95.0,practical_priority_pool
+VUT,Vanuatu,SAI_MGIMO_V3,54.064260907203895,96.0,96.0,practical_priority_pool
+PRY,Paraguay,SAI_MGIMO_V3,54.05063065953552,97.0,97.0,practical_priority_pool
+BWA,Botswana,SAI_MGIMO_V3,53.74219040629128,98.0,98.0,practical_priority_pool
+BLR,Belarus,SAI_MGIMO_V3,53.55846319182472,99.0,99.0,practical_priority_pool
+MNG,Mongolia,SAI_MGIMO_V3,53.45287214236417,100.0,100.0,practical_priority_pool
+NAM,Namibia,SAI_MGIMO_V3,53.181446107025565,101.0,101.0,practical_priority_pool
+CRI,Costa Rica,SAI_MGIMO_V3,53.00423103465268,102.0,102.0,practical_priority_pool
+LBN,Lebanon,SAI_MGIMO_V3,52.86851285776788,103.0,103.0,practical_priority_pool
+NIC,Nicaragua,SAI_MGIMO_V3,52.85908820515169,104.0,104.0,practical_priority_pool
+STP,São Tomé and Principe,SAI_MGIMO_V3,52.73500991984072,105.0,105.0,practical_priority_pool
+SRB,Serbia,SAI_MGIMO_V3,52.45180387223501,106.0,106.0,practical_priority_pool
+URY,Uruguay,SAI_MGIMO_V3,52.17317471063652,107.0,107.0,practical_priority_pool
+QAT,Qatar,SAI_MGIMO_V3,51.93804662986058,108.0,108.0,practical_priority_pool
+PRK,"Korea, Dem. People's Rep.",SAI_MGIMO_V3,51.674616841973055,109.0,109.0,practical_priority_pool
+CUB,Cuba,SAI_MGIMO_V3,51.47416959897838,110.0,110.0,practical_priority_pool
+GEO,Georgia,SAI_MGIMO_V3,51.02366496697995,111.0,111.0,practical_priority_pool
+TLS,Timor-Leste,SAI_MGIMO_V3,50.57169181716797,112.0,112.0,practical_priority_pool
+SLV,El Salvador,SAI_MGIMO_V3,50.46264858909443,113.0,113.0,practical_priority_pool
+LSO,Lesotho,SAI_MGIMO_V3,50.29682910529296,114.0,114.0,practical_priority_pool
+BIH,Bosnia and Herzegovina,SAI_MGIMO_V3,50.12090168469185,115.0,115.0,practical_priority_pool
+MDA,Moldova,SAI_MGIMO_V3,49.61985101259896,116.0,116.0,practical_priority_pool
+MUS,Mauritius,SAI_MGIMO_V3,49.09368196074018,117.0,117.0,practical_priority_pool
+ARM,Armenia,SAI_MGIMO_V3,48.73355166600452,118.0,118.0,practical_priority_pool
+BRN,Brunei Darussalam,SAI_MGIMO_V3,48.66040160783481,119.0,119.0,practical_priority_pool
+BLZ,Belize,SAI_MGIMO_V3,47.737934072901176,120.0,120.0,practical_priority_pool
+JAM,Jamaica,SAI_MGIMO_V3,47.01837178781363,121.0,121.0,practical_priority_pool
+CPV,Cabo Verde,SAI_MGIMO_V3,46.94077442106004,122.0,122.0,practical_priority_pool
+WSM,Samoa,SAI_MGIMO_V3,46.73058550863279,123.0,123.0,practical_priority_pool
+FJI,Fiji,SAI_MGIMO_V3,45.39075820868347,124.0,124.0,practical_priority_pool
+MDV,Maldives,SAI_MGIMO_V3,44.683392757178304,125.0,125.0,practical_priority_pool
+LCA,St. Lucia,SAI_MGIMO_V3,44.41381742582888,126.0,126.0,practical_priority_pool
+ATG,Antigua and Barbuda,SAI_MGIMO_V3,43.14694631856504,127.0,127.0,practical_priority_pool
+BRB,Barbados,SAI_MGIMO_V3,42.703120272174985,128.0,128.0,practical_priority_pool
+TON,Tonga,SAI_MGIMO_V3,42.67322255842612,129.0,129.0,practical_priority_pool
+VCT,St. Vincent and the Grenadines,SAI_MGIMO_V3,39.75550358999639,130.0,130.0,practical_priority_pool
+GRD,Grenada,SAI_MGIMO_V3,34.585157711899,131.0,131.0,practical_priority_pool
+MHL,Marshall Islands,SAI_MGIMO_V3,34.315875640680936,132.0,132.0,practical_priority_pool
+KNA,St. Kitts and Nevis,SAI_MGIMO_V3,32.7771359031363,133.0,133.0,practical_priority_pool
+PLW,Palau,SAI_MGIMO_V3,31.48015098273448,134.0,134.0,practical_priority_pool
+ALB,Albania,SAI_MGIMO_V3,,,,unfriendly_reference_only
+ASM,American Samoa,SAI_MGIMO_V3,,,,special_territory_reference_only
+AND,Andorra,SAI_MGIMO_V3,,,,unfriendly_reference_only
+ABW,Aruba,SAI_MGIMO_V3,,,,special_territory_reference_only
+AUS,Australia,SAI_MGIMO_V3,,,,unfriendly_reference_only
+AUT,Austria,SAI_MGIMO_V3,,,,unfriendly_reference_only
+BHS,"Bahamas, The",SAI_MGIMO_V3,,,,unfriendly_reference_only
+BEL,Belgium,SAI_MGIMO_V3,,,,unfriendly_reference_only
+BMU,Bermuda,SAI_MGIMO_V3,,,,unfriendly_reference_only
+BOL,Bolivia,SAI_MGIMO_V3,,,,data_unavailable
+VGB,British Virgin Islands,SAI_MGIMO_V3,,,,unfriendly_reference_only
+BGR,Bulgaria,SAI_MGIMO_V3,,,,unfriendly_reference_only
+CAN,Canada,SAI_MGIMO_V3,,,,unfriendly_reference_only
+CYM,Cayman Islands,SAI_MGIMO_V3,,,,unfriendly_reference_only
+CHI,Channel Islands,SAI_MGIMO_V3,,,,data_unavailable
+HRV,Croatia,SAI_MGIMO_V3,,,,unfriendly_reference_only
+CUW,Curaçao,SAI_MGIMO_V3,,,,special_territory_reference_only
+CYP,Cyprus,SAI_MGIMO_V3,,,,unfriendly_reference_only
+CZE,Czechia,SAI_MGIMO_V3,,,,unfriendly_reference_only
+DNK,Denmark,SAI_MGIMO_V3,,,,unfriendly_reference_only
+DMA,Dominica,SAI_MGIMO_V3,,,,data_unavailable
+EST,Estonia,SAI_MGIMO_V3,,,,unfriendly_reference_only
+FRO,Faroe Islands,SAI_MGIMO_V3,,,,special_territory_reference_only
+FIN,Finland,SAI_MGIMO_V3,,,,unfriendly_reference_only
+FRA,France,SAI_MGIMO_V3,,,,unfriendly_reference_only
+PYF,French Polynesia,SAI_MGIMO_V3,,,,special_territory_reference_only
+DEU,Germany,SAI_MGIMO_V3,,,,unfriendly_reference_only
+GIB,Gibraltar,SAI_MGIMO_V3,,,,unfriendly_reference_only
+GRC,Greece,SAI_MGIMO_V3,,,,unfriendly_reference_only
+GRL,Greenland,SAI_MGIMO_V3,,,,special_territory_reference_only
+GUM,Guam,SAI_MGIMO_V3,,,,special_territory_reference_only
+HTI,Haiti,SAI_MGIMO_V3,,,,data_unavailable
+HKG,"Hong Kong SAR, China",SAI_MGIMO_V3,,,,special_territory_reference_only
+HUN,Hungary,SAI_MGIMO_V3,,,,unfriendly_reference_only
+ISL,Iceland,SAI_MGIMO_V3,,,,unfriendly_reference_only
+IRL,Ireland,SAI_MGIMO_V3,,,,unfriendly_reference_only
+IMN,Isle of Man,SAI_MGIMO_V3,,,,unfriendly_reference_only
+ITA,Italy,SAI_MGIMO_V3,,,,unfriendly_reference_only
+JPN,Japan,SAI_MGIMO_V3,,,,unfriendly_reference_only
+KIR,Kiribati,SAI_MGIMO_V3,,,,data_unavailable
+KOR,"Korea, Rep.",SAI_MGIMO_V3,,,,unfriendly_reference_only
+XKX,Kosovo,SAI_MGIMO_V3,,,,special_territory_reference_only
+LVA,Latvia,SAI_MGIMO_V3,,,,unfriendly_reference_only
+LIE,Liechtenstein,SAI_MGIMO_V3,,,,unfriendly_reference_only
+LTU,Lithuania,SAI_MGIMO_V3,,,,unfriendly_reference_only
+LUX,Luxembourg,SAI_MGIMO_V3,,,,unfriendly_reference_only
+MAC,"Macao SAR, China",SAI_MGIMO_V3,,,,special_territory_reference_only
+MLT,Malta,SAI_MGIMO_V3,,,,unfriendly_reference_only
+FSM,"Micronesia, Fed. Sts.",SAI_MGIMO_V3,,,,unfriendly_reference_only
+MCO,Monaco,SAI_MGIMO_V3,,,,unfriendly_reference_only
+MNE,Montenegro,SAI_MGIMO_V3,,,,unfriendly_reference_only
+NRU,Nauru,SAI_MGIMO_V3,,,,data_unavailable
+NLD,Netherlands,SAI_MGIMO_V3,,,,unfriendly_reference_only
+NCL,New Caledonia,SAI_MGIMO_V3,,,,special_territory_reference_only
+NZL,New Zealand,SAI_MGIMO_V3,,,,unfriendly_reference_only
+MKD,North Macedonia,SAI_MGIMO_V3,,,,unfriendly_reference_only
+MNP,Northern Mariana Islands,SAI_MGIMO_V3,,,,special_territory_reference_only
+NOR,Norway,SAI_MGIMO_V3,,,,unfriendly_reference_only
+PNG,Papua New Guinea,SAI_MGIMO_V3,,,,data_unavailable
+POL,Poland,SAI_MGIMO_V3,,,,unfriendly_reference_only
+PRT,Portugal,SAI_MGIMO_V3,,,,unfriendly_reference_only
+PRI,Puerto Rico (US),SAI_MGIMO_V3,,,,special_territory_reference_only
+ROU,Romania,SAI_MGIMO_V3,,,,unfriendly_reference_only
+RUS,Russian Federation,SAI_MGIMO_V3,,,,domestic_excluded
+SMR,San Marino,SAI_MGIMO_V3,,,,unfriendly_reference_only
+SGP,Singapore,SAI_MGIMO_V3,,,,unfriendly_reference_only
+SXM,Sint Maarten (Dutch part),SAI_MGIMO_V3,,,,special_territory_reference_only
+SVK,Slovak Republic,SAI_MGIMO_V3,,,,unfriendly_reference_only
+SVN,Slovenia,SAI_MGIMO_V3,,,,unfriendly_reference_only
+SLB,Solomon Islands,SAI_MGIMO_V3,,,,data_unavailable
+SOM,"Somalia, Fed. Rep.",SAI_MGIMO_V3,,,,data_unavailable
+SSD,South Sudan,SAI_MGIMO_V3,,,,data_unavailable
+ESP,Spain,SAI_MGIMO_V3,,,,unfriendly_reference_only
+MAF,St. Martin (French part),SAI_MGIMO_V3,,,,special_territory_reference_only
+SWE,Sweden,SAI_MGIMO_V3,,,,unfriendly_reference_only
+CHE,Switzerland,SAI_MGIMO_V3,,,,unfriendly_reference_only
+TCA,Turks and Caicos Islands,SAI_MGIMO_V3,,,,unfriendly_reference_only
+TUV,Tuvalu,SAI_MGIMO_V3,,,,data_unavailable
+UKR,Ukraine,SAI_MGIMO_V3,,,,unfriendly_reference_only
+GBR,United Kingdom,SAI_MGIMO_V3,,,,unfriendly_reference_only
+USA,United States,SAI_MGIMO_V3,,,,unfriendly_reference_only
+VIR,Virgin Islands (US),SAI_MGIMO_V3,,,,special_territory_reference_only
+PSE,West Bank and Gaza,SAI_MGIMO_V3,,,,special_territory_reference_only

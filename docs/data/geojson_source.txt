@@ -1,0 +1,1 @@
+world_admin_boundaries_ru_claimed_update_2026.geojson was provided by the project author as the world country boundaries layer for the MGIMO dashboard. Match key: properties.iso_a3 / adm0_a3 / wb_a3 -> ISO3.

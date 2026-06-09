@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mgimo-branch-ranker"
+version = "0.3.0"
+description = "Advanced reproducible country ranking platform for prospective MGIMO foreign branches"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+  {name = "Research prototype generated for MGIMO branch prioritisation"}
+]
+dependencies = [
+  "numpy>=1.24",
+  "pandas>=2.0",
+  "requests>=2.31",
+  "urllib3>=1.26,<2.6",
+  "xlrd>=2.0.1",
+  "openpyxl>=3.1",
+  "pycountry>=23.12",
+  "PyYAML>=6.0",
+  "rich>=13.0"
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0", "ruff>=0.5"]
+excel = ["xlrd>=2.0"]
+parquet = ["pyarrow>=14.0"]
+
+[project.scripts]
+mgimo-ranker = "mgimo_ranker.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

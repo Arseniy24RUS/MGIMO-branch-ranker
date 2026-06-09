@@ -1,0 +1,15 @@
+﻿source_id,name,api_or_page_url,used_for,notes
+world_bank_indicators,World Bank Indicators API,https://api.worldbank.org/v2/country/all/indicator/{indicator},WDI macro/education/institutional indicators,No API key required according to World Bank documentation; V2 endpoint is used
+un_wpp2024_population_by_single_age_sex,UN World Population Prospects 2024,https://population.un.org/wpp/,"Total population, 15-24 cohort, student pool and age-sex pyramid",Local official WPP 2024 PopulationBySingleAgeSex bulk files are used; PopMale/PopFemale/PopTotal are multiplied by 1000
+imf_datamapper,IMF DataMapper API,https://www.imf.org/external/datamapper/api,WEO macroeconomic indicators,Optional supplement; World Bank values remain primary where IMF rows are absent
+cbr_xml,Bank of Russia XML daily exchange rates,https://www.cbr.ru/scripts/XML_daily.asp,USD/RUB conversion,Official daily exchange rate endpoint
+russian_unfriendly_list,Government Order No. 430-r,https://www.alta.ru/tamdoc/22rs0430/,Hard exclusion list,Consolidated legal text used as normative input
+mgimo_presence,MGIMO campuses/about and admissions pages,https://mgimo.ru/about/,Existing branch/platform/pipeline exclusions,Manual reference table distinguishes operational branches from pipeline cases
+mgimo_partner_universities,MGIMO partner universities page,https://mgimo.ru/about/structure/int/docs/partner-universities/,Partner base and launch feasibility,Manual country-level counts; should be expanded during country due diligence
+oecd_sdmx,OECD SDMX API,https://sdmx.oecd.org/public/rest,Optional OECD/partner-country data adapter,Use OECD Data Explorer Developer API query builder and feed resource path to sources.oecd.fetch_sdmx_csv
+uis_api,UNESCO UIS API,https://api.uis.unesco.org/api/public,Optional direct education data adapter,World Bank WDI education indicators are used in the current build; UIS adapter is included for exact UIS endpoints
+ilostat,ILOSTAT SDMX and bulk download,https://ilostat.ilo.org/data/bulk/,Optional labour-cost enrichment,Use for wage/payroll calibration in top-country due diligence
+un_comtrade,UN Comtrade API,https://comtrade.un.org/,Optional bilateral trade with Russia and sector enrichment,May require API key or bulk access depending on query volume
+unctad_data_hub,UNCTAD Data Hub,https://unctadstat.unctad.org/,Optional FDI/services/trade development indicators,Use for FDI and services-trade enrichment when live extraction is configured
+platform_snapshot_world_bank_panel,mgimo_branch_platform_project country_master_panel.csv,data/platform_snapshot/country_master_panel.csv,Offline snapshot mode; full 217-economy World Bank-derived panel,"Imported as features only; v0.3 recomputes all indices, eligibility and financial outputs."
+platform_source_manifest,mgimo_branch_platform_project source_manifest.csv,data/platform_snapshot/source_manifest.csv,Snapshot provenance and latest-observation diagnostics,Copied to outputs/source_manifest.csv in snapshot mode.

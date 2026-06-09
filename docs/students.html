@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Направления развития международного сотрудничества МГИМО МИД России</title>
+  <meta name="description" content="Отдельная карта привлечения иностранных студентов для МГИМО." />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='8' fill='%2304224d'/%3E%3Cpath d='M10 42h44v6H10zM16 36h8V22h-8zm12 0h8V16h-8zm12 0h8V26h-8z' fill='%23f0bd4f'/%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="assets/vendor/leaflet/leaflet.css" />
+  <link rel="stylesheet" href="assets/style.css?v=20260608-row-compare1" />
+</head>
+<body class="students-page">
+  <a class="skip-link" href="#studentsDashboard" data-i18n="students.skipToMain">Перейти к карте студентов</a>
+
+  <header class="app-header students-header">
+    <div class="executive-bar">
+      <div class="institution-lockup" aria-label="Логотипы МГИМО и ФНИСЦ" data-i18n-aria-label="ariaInstitutions">
+        <a class="logo-link" href="https://mgimo.ru/" target="_blank" rel="noopener noreferrer" aria-label="МГИМО">
+          <img class="brand-logo mgimo-logo" src="assets/mgimo-home.png" alt="МГИМО" />
+        </a>
+        <span class="brand-divider" aria-hidden="true"></span>
+        <a class="logo-link" href="https://www.fnisc.ru/" target="_blank" rel="noopener noreferrer" aria-label="ФНИСЦ РАН">
+          <img class="brand-logo fnisc-logo" src="assets/fnisc.png" alt="ФНИСЦ РАН" />
+        </a>
+      </div>
+
+      <div class="title-block">
+        <h1 data-i18n="title">Направления развития международного сотрудничества МГИМО МИД России</h1>
+      </div>
+
+      <div class="header-controls" aria-label="Header controls" data-i18n-aria-label="ariaHeaderControls">
+        <nav class="app-nav" data-i18n-aria-label="ariaNav" aria-label="Navigation">
+          <a href="index.html" data-i18n="navBranches">Branches</a>
+          <a class="active" href="students.html" aria-current="page" data-i18n="navStudents">Students</a>
+        </nav>
+        <div class="segmented compact" role="group" aria-label="Language" data-i18n-aria-label="ariaLanguage">
+          <button id="langRu" class="segment active" type="button">RU</button>
+          <button id="langEn" class="segment" type="button">EN</button>
+        </div>
+      </div>
+    </div>
+
+    <nav class="control-bar student-control-bar" aria-label="Фильтры привлечения студентов" data-i18n-aria-label="students.ariaFilters">
+      <div class="student-filter-fields">
+      <label class="control-field">
+        <span data-i18n="students.filterMode">Режим</span>
+        <select id="studentModeSelect">
+          <option value="practical" data-i18n="students.modePractical">Практический приоритет</option>
+          <option value="reference" data-i18n="students.modeReference">Справочный потенциал</option>
+        </select>
+      </label>
+      <label class="control-field">
+        <span data-i18n="students.filterRegion">Регион</span>
+        <select id="studentRegionSelect"></select>
+      </label>
+      <label class="control-field">
+        <span data-i18n="students.filterStatus">Статус</span>
+        <select id="studentStatusSelect"></select>
+      </label>
+      <label class="control-field">
+        <span data-i18n="students.filterTopN">Топ-N</span>
+        <select id="studentTopNSelect">
+          <option value="10">10</option>
+          <option value="20" selected>20</option>
+          <option value="30">30</option>
+          <option value="50">50</option>
+          <option value="100">100</option>
+          <option value="all" data-i18n="students.topAll">Все</option>
+        </select>
+      </label>
+      <label class="control-field">
+        <span data-i18n="students.filterProgram">Программа</span>
+        <select id="studentProgramSelect"></select>
+      </label>
+      <label class="control-field">
+        <span data-i18n="students.filterLanguage">Язык</span>
+        <select id="studentLanguageSelect"></select>
+      </label>
+      <button id="studentResetBtn" class="reset-button" type="button" data-i18n="reset">Сброс</button>
+      </div>
+    </nav>
+  </header>
+
+  <main id="studentsDashboard" class="students-dashboard-grid">
+    <section class="map-panel panel student-map-panel" aria-label="Карта потоков иностранных студентов" data-i18n-aria-label="students.ariaMap">
+      <div class="map-title-row">
+        <div>
+          <h2 data-i18n="students.mapTitle">Карта направлений привлечения студентов</h2>
+        </div>
+        <div class="student-map-legend" aria-label="Map legend" data-i18n-aria-label="students.ariaLegend">
+          <span><i class="student-fill-scale"></i><span data-i18n="students.legendIndex">Индекс</span></span>
+          <span><i class="key-hatch"></i><span data-i18n="legendExcluded">Недружественные</span></span>
+          <span class="student-direction-legend"><i class="student-arrow-key"></i><span data-i18n="students.legendDirections">Направления</span>
+          <label class="student-flow-toggle" data-i18n-aria-label="students.showDirectionArcs" aria-label="Показывать стрелки">
+            <input id="studentFlowToggle" type="checkbox" checked />
+          </label></span>
+        </div>
+      </div>
+      <div id="studentMap" class="map student-flow-map" role="application" aria-label="Интерактивная карта потоков иностранных студентов" data-i18n-aria-label="students.ariaInteractiveMap"></div>
+      <div class="map-bottom-row">
+        <span id="studentMapLegend" class="metric-note"></span>
+        <span id="studentMapStatus" class="metric-note"></span>
+      </div>
+    </section>
+
+      <section class="panel student-selected-card" aria-label="Выбранная страна" data-i18n-aria-label="students.ariaSelected">
+        <p class="panel-kicker" data-i18n="students.selected">Выбранная страна</p>
+        <div class="student-selected-heading">
+          <span id="studentSelectedFlag" class="country-flag" aria-hidden="true">•</span>
+          <div>
+            <h2 id="studentSelectedCountry">-</h2>
+            <p id="studentSelectedMeta">-</p>
+          </div>
+        </div>
+        <div class="student-sai-score">
+          <span data-i18n="students.sai">Индекс привлечения студентов</span>
+          <strong id="studentSelectedSai">-</strong>
+        </div>
+        <div id="studentSelectedBadges" class="badges"></div>
+        <div class="student-selected-grid">
+          <div><span data-i18n="students.program">Программа</span><strong id="studentSelectedProgram">-</strong></div>
+          <div><span data-i18n="students.language">Язык</span><strong id="studentSelectedLanguage">-</strong></div>
+          <div><span data-i18n="students.flowEvidence">Поток</span><strong id="studentSelectedEvidence">-</strong></div>
+          <div><span data-i18n="students.flowPotential">Потенциал</span><strong id="studentSelectedPotential">-</strong></div>
+        </div>
+        <p id="studentSelectedWarning" class="student-model-warning"></p>
+      </section>
+
+      <section class="panel student-ranking-card" aria-label="Рейтинг стран по привлечению студентов" data-i18n-aria-label="students.ariaRanking">
+        <div class="shortlist-head">
+          <h2 data-i18n="students.rankingTitle">Рейтинг привлечения</h2>
+          <button id="studentDownloadBtn" class="text-button" type="button" data-i18n="students.downloadCsv">CSV</button>
+        </div>
+        <div class="shortlist-wrap student-table-wrap">
+          <table class="executive-table student-ranking-table">
+            <thead>
+              <tr>
+                <th data-i18n="rank">Место</th>
+                <th data-i18n="country">Страна</th>
+                <th data-i18n="students.saiShort">Индекс</th>
+              </tr>
+            </thead>
+            <tbody id="studentRankingBody"></tbody>
+          </table>
+        </div>
+      </section>
+
+    <section class="panel student-detail-panel" aria-label="Декомпозиция и источники" data-i18n-aria-label="students.ariaDetails">
+      <section class="student-visuals-section">
+        <div class="pane-header compact">
+          <h2 data-i18n="students.visualsTitle">Аналитика привлечения студентов</h2>
+          <span id="studentVisualTraceNote" class="metric-note"></span>
+        </div>
+        <div class="student-visual-grid">
+          <article class="visual-card">
+            <h3 data-i18n="students.decompositionTitle">Состав индекса</h3>
+            <div id="studentSaiDecomposition" class="chart mini-chart" data-visual-id="studentSaiDecomposition"></div>
+          </article>
+          <article class="visual-card">
+            <h3 data-i18n="students.youthGrowthTitle">Молодежь 15-24</h3>
+            <div id="studentYouthGrowthScatter" class="chart mini-chart" data-visual-id="studentYouthGrowthScatter"></div>
+          </article>
+          <article class="visual-card">
+            <h3 data-i18n="students.mobilityUisTitle">Исходящая мобильность UIS</h3>
+            <div id="studentMobilityChart" class="chart mini-chart" data-visual-id="studentMobilityChart"></div>
+          </article>
+          <article class="visual-card">
+            <h3 data-i18n="students.regionTreemapTitle">Регионы</h3>
+            <div id="studentRegionTreemap" class="chart mini-chart" data-visual-id="studentRegionTreemap"></div>
+          </article>
+          <article class="visual-card student-africa-panel">
+            <h3 data-i18n="students.topCountriesTitle">Страны</h3>
+            <div id="studentTopAfricaPanel" class="chart mini-chart" data-visual-id="studentTopAfricaPanel"></div>
+          </article>
+        </div>
+      </section>
+      <section class="student-methodology-workbench methodology-workbench">
+        <div class="pane-header compact">
+          <h2 data-i18n="countryDetailTitle">Факторы страны</h2>
+          <span id="studentCountryDetailScore">-</span>
+        </div>
+        <article id="studentMethodologyText" class="methodology"></article>
+        <div id="studentFactorTabs" class="factor-tabs" role="tablist" data-i18n-aria-label="ariaFactorTabs" aria-label="Factor tabs"></div>
+        <div id="studentActiveFactorChart" class="factor-calculation-surface" data-visual-id="studentActiveFactorChart"></div>
+        <div id="studentFactorDetailPanel" class="factor-detail-panel" role="tabpanel"></div>
+      </section>
+      <section class="student-demography-section">
+        <div class="pane-header compact">
+          <h2 data-i18n="demographyTrendTitle">Население и молодежь 15-24</h2>
+          <span id="studentDemographyTraceNote" class="metric-note"></span>
+        </div>
+        <div class="student-visual-grid student-demography-grid">
+          <article class="visual-card">
+            <h3 data-i18n="demographyTrendTitle">Население и молодежь 15-24</h3>
+            <div id="studentPopulationYouthChart" class="chart mini-chart" data-visual-id="studentPopulationYouthChart"></div>
+          </article>
+          <article class="visual-card">
+            <h3 data-i18n="ageSexPyramidTitle">Возрастно-половая структура</h3>
+            <div id="studentAgeSexPyramidChart" class="chart mini-chart" data-visual-id="studentAgeSexPyramidChart"></div>
+          </article>
+        </div>
+      </section>
+    </section>
+  </main>
+
+  <footer class="app-footer">
+    <span data-i18n="students.footerNote">Индекс строится только по открытым проверяемым статистическим рядам; дуги потоков показываются только при наличии фактического странового источника.</span>
+    <span id="loadStatus" class="status-pill" data-i18n="statusLoading">Загрузка данных</span>
+  </footer>
+
+  <script src="assets/vendor/leaflet/leaflet.js"></script>
+  <script src="assets/vendor/plotly/plotly.min.js"></script>
+  <script src="assets/students.js?v=20260609-demography1"></script>
+</body>
+</html>

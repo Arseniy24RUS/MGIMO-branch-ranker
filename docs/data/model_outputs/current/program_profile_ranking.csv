@@ -1,0 +1,869 @@
+﻿iso3,country,eligible,recommendation_category,recommended_program_profile,PRIORITY,program_profile,program_profile_score
+CHI,Channel Islands,True,B_strategic_with_subsidy,digital_finance_business_informatics,47.06173809381484,digital_finance,0.8099809425376114
+ARE,United Arab Emirates,True,B_strategic_with_subsidy,energy_logistics,63.506106745664795,digital_finance,0.7877274012873411
+SYC,Seychelles,True,C_watchlist,energy_logistics,43.17561958370638,digital_finance,0.7585217878065057
+MDV,Maldives,True,B_strategic_with_subsidy,digital_finance_business_informatics,48.372777246174806,digital_finance,0.7497794032164469
+DJI,Djibouti,True,C_watchlist,energy_logistics,44.75150391396487,digital_finance,0.7338958180338613
+GEO,Georgia,True,B_strategic_with_subsidy,digital_finance_business_informatics,58.64935681598443,digital_finance,0.728963998635572
+MYS,Malaysia,True,B_strategic_with_subsidy,digital_finance_business_informatics,64.94181309762479,digital_finance,0.7269414167827423
+BHR,Bahrain,True,B_strategic_with_subsidy,digital_finance_business_informatics,52.65419429932447,digital_finance,0.7178915588189272
+ARM,Armenia,True,B_strategic_with_subsidy,energy_logistics,53.626395578505836,digital_finance,0.7134546349290019
+GUY,Guyana,True,B_strategic_with_subsidy,energy_logistics,48.56298070361997,digital_finance,0.7090165446342238
+CRI,Costa Rica,True,B_strategic_with_subsidy,digital_finance_business_informatics,54.05105591864087,digital_finance,0.6967794541205531
+MUS,Mauritius,True,B_strategic_with_subsidy,economic_legal,51.50101467494254,digital_finance,0.6924359416240076
+PLW,Palau,True,C_watchlist,diplomatic_analytic,38.38639633987301,digital_finance,0.6796562515289334
+CPV,Cabo Verde,True,B_strategic_with_subsidy,digital_finance_business_informatics,46.97976426227924,digital_finance,0.6780541074095858
+ATG,Antigua and Barbuda,True,C_watchlist,digital_finance_business_informatics,38.677065581463324,digital_finance,0.6733369478771929
+ISR,Israel,True,C_watchlist,economic_legal,51.57071280677754,digital_finance,0.6691282828188906
+SRB,Serbia,True,B_strategic_with_subsidy,digital_finance_business_informatics,53.34383515270294,digital_finance,0.6643997916758356
+URY,Uruguay,True,C_watchlist,digital_finance_business_informatics,51.95960939558758,digital_finance,0.6638965326792406
+LCA,St. Lucia,True,C_watchlist,digital_finance_business_informatics,38.45721814427345,digital_finance,0.6610833999754473
+THA,Thailand,True,B_strategic_with_subsidy,digital_finance_business_informatics,67.02326061545864,digital_finance,0.6582287035376625
+BLR,Belarus,True,B_strategic_with_subsidy,digital_finance_business_informatics,51.29352516091667,digital_finance,0.6559923059590598
+KGZ,Kyrgyz Republic,True,B_strategic_with_subsidy,energy_logistics,53.505499708726475,digital_finance,0.6559562792197907
+DOM,Dominican Republic,True,C_watchlist,digital_finance_business_informatics,56.35290616731421,digital_finance,0.6508777264707027
+BRN,Brunei Darussalam,True,B_strategic_with_subsidy,digital_finance_business_informatics,48.06562679118636,digital_finance,0.6495232227550193
+PAN,Panama,True,C_watchlist,digital_finance_business_informatics,51.29520341880863,digital_finance,0.6418530149951115
+QAT,Qatar,True,B_strategic_with_subsidy,digital_finance_business_informatics,47.50999221070786,digital_finance,0.6384705490285852
+VNM,Viet Nam,True,neutral_in_preparation,digital_finance_business_informatics,80.38224626694874,digital_finance,0.635347449250511
+KIR,Kiribati,True,C_watchlist,digital_finance_business_informatics,39.482289945583105,digital_finance,0.6342044098620093
+BRB,Barbados,True,C_watchlist,digital_finance_business_informatics,39.78110075570262,digital_finance,0.6333303078361582
+VCT,St. Vincent and the Grenadines,True,C_watchlist,digital_finance_business_informatics,41.324556695825734,digital_finance,0.625077313097122
+CHN,China,True,A_open_priority,digital_finance_business_informatics,76.21954369266368,digital_finance,0.6238191044328291
+TUR,Türkiye,True,A_open_priority,digital_finance_business_informatics,75.69950238081866,digital_finance,0.6234378261742245
+CHL,Chile,True,C_watchlist,diplomatic_analytic,61.65425234476375,digital_finance,0.6202618697192009
+JOR,Jordan,True,C_watchlist,digital_finance_business_informatics,53.46718285438573,digital_finance,0.6108763441704699
+BLZ,Belize,True,C_watchlist,digital_finance_business_informatics,41.46611828128851,digital_finance,0.6084654739309068
+BTN,Bhutan,True,C_watchlist,digital_finance_business_informatics,42.60060879523681,digital_finance,0.6021648345927849
+TTO,Trinidad and Tobago,True,C_watchlist,digital_finance_business_informatics,43.723726332612,digital_finance,0.6011675972049526
+NRU,Nauru,True,C_watchlist,energy_logistics,38.27228355763461,digital_finance,0.6011513882989786
+BIH,Bosnia and Herzegovina,True,C_watchlist,digital_finance_business_informatics,46.839543817661145,digital_finance,0.5999284567269082
+GRD,Grenada,True,C_watchlist,diplomatic_analytic,45.2972599093107,digital_finance,0.5948455954378941
+SAU,Saudi Arabia,True,A_open_priority,digital_finance_business_informatics,73.39919974824426,digital_finance,0.59472855666153
+KWT,Kuwait,True,C_watchlist,digital_finance_business_informatics,47.91068954833261,digital_finance,0.5941730167153727
+MNG,Mongolia,True,B_strategic_with_subsidy,energy_logistics,55.37927627117115,digital_finance,0.5918513076004744
+OMN,Oman,True,C_watchlist,digital_finance_business_informatics,52.80355883032395,digital_finance,0.5899268177911736
+CUB,Cuba,True,C_watchlist,digital_finance_business_informatics,49.53467590314424,digital_finance,0.5896959866413207
+KNA,St. Kitts and Nevis,True,C_watchlist,diplomatic_analytic,39.99052269140107,digital_finance,0.5765256854040993
+BRA,Brazil,True,A_open_priority,digital_finance_business_informatics,73.02874452478801,digital_finance,0.5701444886715535
+MAR,Morocco,True,C_watchlist,digital_finance_business_informatics,54.71552027982817,digital_finance,0.5690789449503022
+PHL,Philippines,True,A_open_priority,digital_finance_business_informatics,69.0313710650312,digital_finance,0.5678518476043667
+TUN,Tunisia,True,C_watchlist,digital_finance_business_informatics,50.026399199788486,digital_finance,0.5578223678128232
+MEX,Mexico,True,A_open_priority,digital_finance_business_informatics,70.8022227881451,digital_finance,0.5552968658921675
+DMA,Dominica,True,C_watchlist,digital_finance_business_informatics,33.897585834780976,digital_finance,0.5515647217132053
+AZE,Azerbaijan,True,C_watchlist,digital_finance_business_informatics,50.23385427133902,digital_finance,0.5506126980610637
+MHL,Marshall Islands,True,C_watchlist,diplomatic_analytic,32.47935637333317,digital_finance,0.5471539177157145
+FJI,Fiji,True,C_watchlist,diplomatic_analytic,49.426088512058776,digital_finance,0.5402722670001181
+SUR,Suriname,True,C_watchlist,digital_finance_business_informatics,36.37455052046867,digital_finance,0.5400599427561531
+PRY,Paraguay,True,C_watchlist,digital_finance_business_informatics,50.26966076855217,digital_finance,0.5382827242705635
+IRN,"Iran, Islamic Rep.",True,C_watchlist,digital_finance_business_informatics,53.971747168417394,digital_finance,0.5306839522404749
+MDA,Moldova,True,C_watchlist,diplomatic_analytic,47.6234291835142,digital_finance,0.5280183969675784
+JAM,Jamaica,True,C_watchlist,digital_finance_business_informatics,43.302374269778326,digital_finance,0.5207684029508799
+ZAF,South Africa,True,C_watchlist,digital_finance_business_informatics,51.60149216781926,digital_finance,0.5141523546850036
+PER,Peru,True,C_watchlist,digital_finance_business_informatics,54.806961566652056,digital_finance,0.5140531008748236
+SLV,El Salvador,True,C_watchlist,digital_finance_business_informatics,47.60189895242998,digital_finance,0.5113139915791803
+COL,Colombia,True,C_watchlist,digital_finance_business_informatics,55.307013275857685,digital_finance,0.5076144158948268
+STP,São Tomé and Principe,True,C_watchlist,digital_finance_business_informatics,34.88207071631184,digital_finance,0.5033523533905749
+NAM,Namibia,True,C_watchlist,energy_logistics,49.236258565932964,digital_finance,0.5023985355043239
+IND,India,True,A_open_priority,digital_finance_business_informatics,71.20497466817474,digital_finance,0.4975168961480083
+GTM,Guatemala,True,C_watchlist,digital_finance_business_informatics,47.54517662452329,digital_finance,0.4898924304453539
+ARG,Argentina,True,A_open_priority,diplomatic_analytic,64.40593805490838,digital_finance,0.47774134184706035
+KHM,Cambodia,True,C_watchlist,energy_logistics,51.351541779926926,digital_finance,0.474608471948639
+LKA,Sri Lanka,True,C_watchlist,digital_finance_business_informatics,46.64124794581401,digital_finance,0.47201111220286646
+DZA,Algeria,True,C_watchlist,digital_finance_business_informatics,52.559343549696514,digital_finance,0.4705050139407411
+VEN,"Venezuela, RB",True,C_watchlist,digital_finance_business_informatics,48.92530160508401,digital_finance,0.4693511971142668
+SWZ,Eswatini,True,C_watchlist,energy_logistics,38.32919054130817,digital_finance,0.4634349757733227
+HND,Honduras,True,C_watchlist,digital_finance_business_informatics,44.847385513116016,digital_finance,0.4627795044301976
+IDN,Indonesia,True,A_open_priority,digital_finance_business_informatics,71.37852896112831,digital_finance,0.46129198319861764
+LBY,Libya,True,C_watchlist,energy_logistics,44.04255376733484,digital_finance,0.46037902495991667
+EGY,"Egypt, Arab Rep.",True,C_watchlist,digital_finance_business_informatics,56.618254902616336,digital_finance,0.45071370102828845
+GHA,Ghana,True,C_watchlist,energy_logistics,49.46182316886063,digital_finance,0.4382030180825662
+ECU,Ecuador,True,C_watchlist,digital_finance_business_informatics,46.96174998052698,digital_finance,0.4359150510555025
+GAB,Gabon,True,C_watchlist,energy_logistics,42.790002606972784,digital_finance,0.43529915252195883
+BWA,Botswana,True,C_watchlist,economic_legal,46.71814811738386,digital_finance,0.4257651792884465
+TON,Tonga,True,C_watchlist,diplomatic_analytic,35.88498708341969,digital_finance,0.4251080238316959
+SEN,Senegal,True,C_watchlist,energy_logistics,47.20747192424508,digital_finance,0.42286936055725155
+NIC,Nicaragua,True,C_watchlist,energy_logistics,44.417510979559,digital_finance,0.4199650968904591
+LAO,Lao PDR,True,C_watchlist,digital_finance_business_informatics,43.12642122866685,digital_finance,0.41470444721415517
+WSM,Samoa,True,C_watchlist,diplomatic_analytic,39.92578551007817,digital_finance,0.41469915300701005
+BOL,Bolivia,True,C_watchlist,digital_finance_business_informatics,42.90567282029563,digital_finance,0.4098821485536832
+GNQ,Equatorial Guinea,True,C_watchlist,digital_finance_business_informatics,36.07833168481788,digital_finance,0.4046816905608996
+LBN,Lebanon,True,C_watchlist,digital_finance_business_informatics,42.22320638118972,digital_finance,0.400959784474527
+IRQ,Iraq,True,C_watchlist,digital_finance_business_informatics,40.726738325153214,digital_finance,0.3913364099256064
+TUV,Tuvalu,True,C_watchlist,energy_logistics,34.2399182372718,digital_finance,0.38837735390741795
+BGD,Bangladesh,True,C_watchlist,digital_finance_business_informatics,47.79421397352352,digital_finance,0.38728714707368705
+GMB,"Gambia, The",True,C_watchlist,digital_finance_business_informatics,38.74328416687975,digital_finance,0.3838917831870701
+CIV,Côte d'Ivoire,True,C_watchlist,energy_logistics,46.72998380859494,digital_finance,0.3831589704692427
+MRT,Mauritania,True,C_watchlist,energy_logistics,44.007475644531205,digital_finance,0.38049183077616505
+TJK,Tajikistan,True,C_watchlist,energy_logistics,44.825614594946614,digital_finance,0.3798210558048639
+LSO,Lesotho,True,C_watchlist,energy_logistics,39.05631361458721,digital_finance,0.3567222194791539
+PAK,Pakistan,True,C_watchlist,digital_finance_business_informatics,43.72103026464743,digital_finance,0.35160510241965776
+PRK,"Korea, Dem. People's Rep.",True,C_watchlist,energy_logistics,40.249158239424965,digital_finance,0.35112067754435466
+NGA,Nigeria,True,C_watchlist,digital_finance_business_informatics,45.190703553574984,digital_finance,0.3506534209922189
+NPL,Nepal,True,C_watchlist,digital_finance_business_informatics,42.945670931738036,digital_finance,0.3501959588842333
+KEN,Kenya,True,C_watchlist,digital_finance_business_informatics,43.38365528520892,digital_finance,0.33834815337375823
+TGO,Togo,True,C_watchlist,energy_logistics,41.16434377996585,digital_finance,0.3367799844881502
+TKM,Turkmenistan,True,C_watchlist,energy_logistics,39.889619223961944,digital_finance,0.3356866598126576
+TLS,Timor-Leste,True,C_watchlist,diplomatic_analytic,37.31053747414228,digital_finance,0.3328833661790746
+BEN,Benin,True,C_watchlist,energy_logistics,43.6556746787181,digital_finance,0.33178371542753476
+RWA,Rwanda,True,C_watchlist,energy_logistics,45.102419272730444,digital_finance,0.3299883295086444
+COG,"Congo, Rep.",True,C_watchlist,energy_logistics,41.00779474375392,digital_finance,0.3237811015392872
+CMR,Cameroon,True,C_watchlist,digital_finance_business_informatics,40.351353809971485,digital_finance,0.3159131296185535
+AGO,Angola,True,C_watchlist,energy_logistics,43.16055283663719,digital_finance,0.3002706904724071
+SOM,"Somalia, Fed. Rep.",True,C_watchlist,energy_logistics,34.668864681984545,digital_finance,0.2791727506799511
+GIN,Guinea,True,C_watchlist,energy_logistics,41.799254459506,digital_finance,0.2728354585216109
+ZWE,Zimbabwe,True,C_watchlist,digital_finance_business_informatics,35.303555018376166,digital_finance,0.27096464570581646
+ERI,Eritrea,True,C_watchlist,energy_logistics,31.123532586026492,digital_finance,0.2648320578288627
+ZMB,Zambia,True,C_watchlist,energy_logistics,39.862922778194324,digital_finance,0.26116187934532314
+COD,"Congo, Dem. Rep.",True,C_watchlist,energy_logistics,38.71033337278833,digital_finance,0.25929306649395745
+COM,Comoros,True,C_watchlist,digital_finance_business_informatics,30.97527591253155,digital_finance,0.24859863238722046
+SLB,Solomon Islands,True,C_watchlist,energy_logistics,36.85282157893492,digital_finance,0.24260353138094787
+PNG,Papua New Guinea,True,C_watchlist,energy_logistics,38.01992753087212,digital_finance,0.23938743459203968
+VUT,Vanuatu,True,D_not_recommended,economic_legal,29.43103665089214,digital_finance,0.2263114618578262
+NER,Niger,True,C_watchlist,energy_logistics,37.417087250896316,digital_finance,0.22543048639993418
+MLI,Mali,True,C_watchlist,energy_logistics,35.78657558885152,digital_finance,0.2252256041423628
+BFA,Burkina Faso,True,C_watchlist,energy_logistics,36.89925798862305,digital_finance,0.2235377883627371
+TZA,Tanzania,True,C_watchlist,energy_logistics,41.531468415322806,digital_finance,0.22153081399270028
+MMR,Myanmar,True,C_watchlist,energy_logistics,34.226587140850995,digital_finance,0.22145509545407674
+ETH,Ethiopia,True,C_watchlist,energy_logistics,39.60032028440882,digital_finance,0.2100324713494814
+LBR,Liberia,True,C_watchlist,energy_logistics,33.08588126049006,digital_finance,0.20487950784851708
+UGA,Uganda,True,C_watchlist,energy_logistics,38.693290404779965,digital_finance,0.19250020722700725
+MDG,Madagascar,True,C_watchlist,energy_logistics,35.03199427120714,digital_finance,0.18904784369476246
+SLE,Sierra Leone,True,C_watchlist,energy_logistics,31.177824593197016,digital_finance,0.1888781375281872
+HTI,Haiti,True,D_not_recommended,digital_finance_business_informatics,23.236249315141873,digital_finance,0.18160992403624107
+SYR,Syrian Arab Republic,True,C_watchlist,digital_finance_business_informatics,32.08816227829102,digital_finance,0.1774576884289665
+YEM,"Yemen, Rep.",True,C_watchlist,energy_logistics,31.17985456108278,digital_finance,0.17601580917915177
+GNB,Guinea-Bissau,True,D_not_recommended,energy_logistics,26.73577502222319,digital_finance,0.17163890281175131
+BDI,Burundi,True,C_watchlist,energy_logistics,31.917397798870084,digital_finance,0.15596551020500782
+SSD,South Sudan,True,D_not_recommended,economic_legal,25.452158339557958,digital_finance,0.15230103535828213
+MOZ,Mozambique,True,C_watchlist,energy_logistics,36.42827000085332,digital_finance,0.1478446473220833
+AFG,Afghanistan,True,C_watchlist,energy_logistics,30.616816374833117,digital_finance,0.14324809480727166
+TCD,Chad,True,C_watchlist,energy_logistics,31.01305221161236,digital_finance,0.12370023893932558
+MWI,Malawi,True,D_not_recommended,energy_logistics,29.454257644979226,digital_finance,0.1099156711912838
+SDN,Sudan,True,D_not_recommended,digital_finance_business_informatics,25.23691264207015,digital_finance,0.10270319859396482
+CAF,Central African Republic,True,D_not_recommended,energy_logistics,22.07106913452306,digital_finance,0.08660920104983406
+MLT,Malta,False,D_excluded,energy_logistics,0.0,digital_finance,0.9635862444814756
+ABW,Aruba,False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.9349307332899378
+MAC,"Macao SAR, China",False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.9345256933675344
+MCO,Monaco,False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.9082866537688934
+SGP,Singapore,False,D_excluded,diplomatic_analytic,0.0,digital_finance,0.8889931879649807
+HKG,"Hong Kong SAR, China",False,D_excluded,diplomatic_analytic,0.0,digital_finance,0.8876408394696274
+BMU,Bermuda,False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.8828830282541312
+CYP,Cyprus,False,D_excluded,diplomatic_analytic,0.0,digital_finance,0.866405898834582
+LUX,Luxembourg,False,D_excluded,economic_legal,0.0,digital_finance,0.8581931189597547
+CYM,Cayman Islands,False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.8418671850711883
+AND,Andorra,False,D_excluded,economic_legal,0.0,digital_finance,0.8261644026179893
+IRL,Ireland,False,D_excluded,economic_legal,0.0,digital_finance,0.7915523384935108
+CHE,Switzerland,False,D_excluded,economic_legal,0.0,digital_finance,0.7904402529189033
+NLD,Netherlands,False,D_excluded,economic_legal,0.0,digital_finance,0.7895753274683852
+BEL,Belgium,False,D_excluded,economic_legal,0.0,digital_finance,0.7862787773763145
+DNK,Denmark,False,D_excluded,economic_legal,0.0,digital_finance,0.7849259928542142
+USA,United States,False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.7671056441324884
+BHS,"Bahamas, The",False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.7666031458104101
+ESP,Spain,False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.739772189274548
+SXM,Sint Maarten (Dutch part),False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.7373660323975253
+CUW,Curaçao,False,D_excluded,energy_logistics,0.0,digital_finance,0.7305182887439088
+LTU,Lithuania,False,D_excluded,economic_legal,0.0,digital_finance,0.7265793622128472
+SMR,San Marino,False,D_excluded,economic_legal,0.0,digital_finance,0.7259894332938059
+SWE,Sweden,False,D_excluded,diplomatic_analytic,0.0,digital_finance,0.7139934470113015
+GBR,United Kingdom,False,D_excluded,diplomatic_analytic,0.0,digital_finance,0.7115970880439701
+IMN,Isle of Man,False,D_excluded,diplomatic_analytic,0.0,digital_finance,0.7085293277587702
+SVK,Slovak Republic,False,D_excluded,economic_legal,0.0,digital_finance,0.7050423509457059
+GIB,Gibraltar,False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.6982399508543689
+EST,Estonia,False,D_excluded,economic_legal,0.0,digital_finance,0.6920256371853363
+SVN,Slovenia,False,D_excluded,diplomatic_analytic,0.0,digital_finance,0.69025435225472
+CAN,Canada,False,D_excluded,economic_legal,0.0,digital_finance,0.6867447920553894
+FRA,France,False,D_excluded,economic_legal,0.0,digital_finance,0.6857188311955824
+MNE,Montenegro,False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.682664393680133
+PRT,Portugal,False,D_excluded,diplomatic_analytic,0.0,digital_finance,0.6805003175445006
+HRV,Croatia,False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.6777304406028369
+AUS,Australia,False,D_excluded,diplomatic_analytic,0.0,digital_finance,0.6773973177368912
+GRC,Greece,False,D_excluded,diplomatic_analytic,0.0,digital_finance,0.675519339698301
+BGR,Bulgaria,False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.6742277106108524
+KAZ,Kazakhstan,False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.6738277199723648
+HUN,Hungary,False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.6707621936498883
+KOR,"Korea, Rep.",False,D_excluded,diplomatic_analytic,0.0,digital_finance,0.6705431854934555
+LVA,Latvia,False,D_excluded,diplomatic_analytic,0.0,digital_finance,0.6692442578578861
+POL,Poland,False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.6690300100370435
+NZL,New Zealand,False,D_excluded,diplomatic_analytic,0.0,digital_finance,0.6665672036313234
+ISL,Iceland,False,D_excluded,diplomatic_analytic,0.0,digital_finance,0.6660073638195991
+MKD,North Macedonia,False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.6636059749935689
+CZE,Czechia,False,D_excluded,economic_legal,0.0,digital_finance,0.6629457395876648
+AUT,Austria,False,D_excluded,diplomatic_analytic,0.0,digital_finance,0.6595331264135893
+RUS,Russian Federation,False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.6558529908906823
+FRO,Faroe Islands,False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.655027406101845
+NOR,Norway,False,D_excluded,diplomatic_analytic,0.0,digital_finance,0.6519858002062207
+FIN,Finland,False,D_excluded,diplomatic_analytic,0.0,digital_finance,0.6512678814624165
+DEU,Germany,False,D_excluded,economic_legal,0.0,digital_finance,0.6450568245249203
+ITA,Italy,False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.6385045414795946
+ROU,Romania,False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.6330387886056924
+MAF,St. Martin (French part),False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.6273260835097649
+JPN,Japan,False,D_excluded,economic_legal,0.0,digital_finance,0.6209372148219191
+PRI,Puerto Rico (US),False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.6195405151153167
+LIE,Liechtenstein,False,D_excluded,economic_legal,0.0,digital_finance,0.6102873711982765
+GUM,Guam,False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.5983507213757655
+VGB,British Virgin Islands,False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.5890454892160126
+GRL,Greenland,False,D_excluded,economic_legal,0.0,digital_finance,0.5847872523406983
+UKR,Ukraine,False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.5841718376133894
+PYF,French Polynesia,False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.5823092634368294
+XKX,Kosovo,False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.5816950249469586
+VIR,Virgin Islands (US),False,D_excluded,economic_legal,0.0,digital_finance,0.5699279441106054
+ALB,Albania,False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.5657126173655106
+UZB,Uzbekistan,False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.5559707854703628
+TCA,Turks and Caicos Islands,False,D_excluded,economic_legal,0.0,digital_finance,0.5062578408803119
+NCL,New Caledonia,False,D_excluded,diplomatic_analytic,0.0,digital_finance,0.48541571122335203
+MNP,Northern Mariana Islands,False,D_excluded,energy_logistics,0.0,digital_finance,0.43107043692836244
+PSE,West Bank and Gaza,False,D_excluded,digital_finance_business_informatics,0.0,digital_finance,0.43068138255235916
+FSM,"Micronesia, Fed. Sts.",False,D_excluded,diplomatic_analytic,0.0,digital_finance,0.37071639175774135
+ASM,American Samoa,False,D_excluded,economic_legal,0.0,digital_finance,0.34082710792591764
+ARE,United Arab Emirates,True,B_strategic_with_subsidy,energy_logistics,63.506106745664795,diplo_analytic,0.7604462803960823
+CHI,Channel Islands,True,B_strategic_with_subsidy,digital_finance_business_informatics,47.06173809381484,diplo_analytic,0.751007362415522
+PLW,Palau,True,C_watchlist,diplomatic_analytic,38.38639633987301,diplo_analytic,0.7307045636822098
+KNA,St. Kitts and Nevis,True,C_watchlist,diplomatic_analytic,39.99052269140107,diplo_analytic,0.6843058791722247
+GRD,Grenada,True,C_watchlist,diplomatic_analytic,45.2972599093107,diplo_analytic,0.6698023335272383
+GEO,Georgia,True,B_strategic_with_subsidy,digital_finance_business_informatics,58.64935681598443,diplo_analytic,0.666776343612489
+MUS,Mauritius,True,B_strategic_with_subsidy,economic_legal,51.50101467494254,diplo_analytic,0.6493061715697352
+CHL,Chile,True,C_watchlist,diplomatic_analytic,61.65425234476375,diplo_analytic,0.648484214907766
+URY,Uruguay,True,C_watchlist,digital_finance_business_informatics,51.95960939558758,diplo_analytic,0.6448934828035052
+BHR,Bahrain,True,B_strategic_with_subsidy,digital_finance_business_informatics,52.65419429932447,diplo_analytic,0.6426831204973397
+ISR,Israel,True,C_watchlist,economic_legal,51.57071280677754,diplo_analytic,0.6350212107502051
+MDV,Maldives,True,B_strategic_with_subsidy,digital_finance_business_informatics,48.372777246174806,diplo_analytic,0.6229130978435807
+SYC,Seychelles,True,C_watchlist,energy_logistics,43.17561958370638,diplo_analytic,0.6204695714746603
+BRB,Barbados,True,C_watchlist,digital_finance_business_informatics,39.78110075570262,diplo_analytic,0.6132096462614525
+FJI,Fiji,True,C_watchlist,diplomatic_analytic,49.426088512058776,diplo_analytic,0.5850354429277626
+MHL,Marshall Islands,True,C_watchlist,diplomatic_analytic,32.47935637333317,diplo_analytic,0.5822427328527827
+CRI,Costa Rica,True,B_strategic_with_subsidy,digital_finance_business_informatics,54.05105591864087,diplo_analytic,0.5787744184447813
+ARM,Armenia,True,B_strategic_with_subsidy,energy_logistics,53.626395578505836,diplo_analytic,0.5749724231422008
+NRU,Nauru,True,C_watchlist,energy_logistics,38.27228355763461,diplo_analytic,0.5707849271162465
+THA,Thailand,True,B_strategic_with_subsidy,digital_finance_business_informatics,67.02326061545864,diplo_analytic,0.5706719830606207
+SRB,Serbia,True,B_strategic_with_subsidy,digital_finance_business_informatics,53.34383515270294,diplo_analytic,0.5691819653788429
+MYS,Malaysia,True,B_strategic_with_subsidy,digital_finance_business_informatics,64.94181309762479,diplo_analytic,0.5649224564700456
+ATG,Antigua and Barbuda,True,C_watchlist,digital_finance_business_informatics,38.677065581463324,diplo_analytic,0.5639508018333435
+MDA,Moldova,True,C_watchlist,diplomatic_analytic,47.6234291835142,diplo_analytic,0.5565390123947829
+SAU,Saudi Arabia,True,A_open_priority,digital_finance_business_informatics,73.39919974824426,diplo_analytic,0.5548085172035764
+QAT,Qatar,True,B_strategic_with_subsidy,digital_finance_business_informatics,47.50999221070786,diplo_analytic,0.545733376665048
+CUB,Cuba,True,C_watchlist,digital_finance_business_informatics,49.53467590314424,diplo_analytic,0.5417674914343414
+BRN,Brunei Darussalam,True,B_strategic_with_subsidy,digital_finance_business_informatics,48.06562679118636,diplo_analytic,0.5408859491804724
+TUR,Türkiye,True,A_open_priority,digital_finance_business_informatics,75.69950238081866,diplo_analytic,0.5353755707969705
+PAN,Panama,True,C_watchlist,digital_finance_business_informatics,51.29520341880863,diplo_analytic,0.5332256004461081
+KWT,Kuwait,True,C_watchlist,digital_finance_business_informatics,47.91068954833261,diplo_analytic,0.5291348697860369
+VCT,St. Vincent and the Grenadines,True,C_watchlist,digital_finance_business_informatics,41.324556695825734,diplo_analytic,0.5275927344502863
+CHN,China,True,A_open_priority,digital_finance_business_informatics,76.21954369266368,diplo_analytic,0.512694542907245
+WSM,Samoa,True,C_watchlist,diplomatic_analytic,39.92578551007817,diplo_analytic,0.5123636069960922
+OMN,Oman,True,C_watchlist,digital_finance_business_informatics,52.80355883032395,diplo_analytic,0.507666025535745
+MNG,Mongolia,True,B_strategic_with_subsidy,energy_logistics,55.37927627117115,diplo_analytic,0.5068147414266884
+LCA,St. Lucia,True,C_watchlist,digital_finance_business_informatics,38.45721814427345,diplo_analytic,0.5051692956106223
+CPV,Cabo Verde,True,B_strategic_with_subsidy,digital_finance_business_informatics,46.97976426227924,diplo_analytic,0.5045737800896964
+ARG,Argentina,True,A_open_priority,diplomatic_analytic,64.40593805490838,diplo_analytic,0.494810636151561
+JOR,Jordan,True,C_watchlist,digital_finance_business_informatics,53.46718285438573,diplo_analytic,0.4766687794046225
+DOM,Dominican Republic,True,C_watchlist,digital_finance_business_informatics,56.35290616731421,diplo_analytic,0.4690166012248355
+TUV,Tuvalu,True,C_watchlist,energy_logistics,34.2399182372718,diplo_analytic,0.46704950629906195
+DJI,Djibouti,True,C_watchlist,energy_logistics,44.75150391396487,diplo_analytic,0.46162494400579873
+VNM,Viet Nam,True,neutral_in_preparation,digital_finance_business_informatics,80.38224626694874,diplo_analytic,0.4592542498095345
+BWA,Botswana,True,C_watchlist,economic_legal,46.71814811738386,diplo_analytic,0.45759192155287903
+TUN,Tunisia,True,C_watchlist,digital_finance_business_informatics,50.026399199788486,diplo_analytic,0.4516654706990801
+TON,Tonga,True,C_watchlist,diplomatic_analytic,35.88498708341969,diplo_analytic,0.44895815410198336
+GUY,Guyana,True,B_strategic_with_subsidy,energy_logistics,48.56298070361997,diplo_analytic,0.4467546664037576
+BLR,Belarus,True,B_strategic_with_subsidy,digital_finance_business_informatics,51.29352516091667,diplo_analytic,0.4456061003463963
+KIR,Kiribati,True,C_watchlist,digital_finance_business_informatics,39.482289945583105,diplo_analytic,0.44244453547191476
+BRA,Brazil,True,A_open_priority,digital_finance_business_informatics,73.02874452478801,diplo_analytic,0.4411029097198089
+SLV,El Salvador,True,C_watchlist,digital_finance_business_informatics,47.60189895242998,diplo_analytic,0.4344519918956536
+NAM,Namibia,True,C_watchlist,energy_logistics,49.236258565932964,diplo_analytic,0.43333791562946594
+PHL,Philippines,True,A_open_priority,digital_finance_business_informatics,69.0313710650312,diplo_analytic,0.430623591707961
+JAM,Jamaica,True,C_watchlist,digital_finance_business_informatics,43.302374269778326,diplo_analytic,0.4292356803984377
+MAR,Morocco,True,C_watchlist,digital_finance_business_informatics,54.71552027982817,diplo_analytic,0.4256674635438982
+BIH,Bosnia and Herzegovina,True,C_watchlist,digital_finance_business_informatics,46.839543817661145,diplo_analytic,0.421037053004802
+COL,Colombia,True,C_watchlist,digital_finance_business_informatics,55.307013275857685,diplo_analytic,0.4209650406781676
+ECU,Ecuador,True,C_watchlist,digital_finance_business_informatics,46.96174998052698,diplo_analytic,0.41872041584878605
+BLZ,Belize,True,C_watchlist,digital_finance_business_informatics,41.46611828128851,diplo_analytic,0.41848552799914324
+PER,Peru,True,C_watchlist,digital_finance_business_informatics,54.806961566652056,diplo_analytic,0.4172847575544811
+MEX,Mexico,True,A_open_priority,digital_finance_business_informatics,70.8022227881451,diplo_analytic,0.41375646211652073
+TTO,Trinidad and Tobago,True,C_watchlist,digital_finance_business_informatics,43.723726332612,diplo_analytic,0.4129151248676845
+DMA,Dominica,True,C_watchlist,digital_finance_business_informatics,33.897585834780976,diplo_analytic,0.40832673981393525
+ZAF,South Africa,True,C_watchlist,digital_finance_business_informatics,51.60149216781926,diplo_analytic,0.4053530243377801
+TLS,Timor-Leste,True,C_watchlist,diplomatic_analytic,37.31053747414228,diplo_analytic,0.4012308943588184
+BTN,Bhutan,True,C_watchlist,digital_finance_business_informatics,42.60060879523681,diplo_analytic,0.3911610876243805
+KGZ,Kyrgyz Republic,True,B_strategic_with_subsidy,energy_logistics,53.505499708726475,diplo_analytic,0.3886498928098448
+IDN,Indonesia,True,A_open_priority,digital_finance_business_informatics,71.37852896112831,diplo_analytic,0.3672125449672645
+SLB,Solomon Islands,True,C_watchlist,energy_logistics,36.85282157893492,diplo_analytic,0.36195681593113566
+IND,India,True,A_open_priority,digital_finance_business_informatics,71.20497466817474,diplo_analytic,0.3567685968764032
+AZE,Azerbaijan,True,C_watchlist,digital_finance_business_informatics,50.23385427133902,diplo_analytic,0.35343903103909147
+STP,São Tomé and Principe,True,C_watchlist,digital_finance_business_informatics,34.88207071631184,diplo_analytic,0.35263892788652734
+PRY,Paraguay,True,C_watchlist,digital_finance_business_informatics,50.26966076855217,diplo_analytic,0.3488644420052529
+IRN,"Iran, Islamic Rep.",True,C_watchlist,digital_finance_business_informatics,53.971747168417394,diplo_analytic,0.3287556573179294
+DZA,Algeria,True,C_watchlist,digital_finance_business_informatics,52.559343549696514,diplo_analytic,0.3247562110575458
+LBY,Libya,True,C_watchlist,energy_logistics,44.04255376733484,diplo_analytic,0.3129937011442545
+LSO,Lesotho,True,C_watchlist,energy_logistics,39.05631361458721,diplo_analytic,0.3109530097338055
+LKA,Sri Lanka,True,C_watchlist,digital_finance_business_informatics,46.64124794581401,diplo_analytic,0.3099186580631679
+VUT,Vanuatu,True,D_not_recommended,economic_legal,29.43103665089214,diplo_analytic,0.30799838861546813
+EGY,"Egypt, Arab Rep.",True,C_watchlist,digital_finance_business_informatics,56.618254902616336,diplo_analytic,0.30686016721755627
+SUR,Suriname,True,C_watchlist,digital_finance_business_informatics,36.37455052046867,diplo_analytic,0.30464323397424065
+KHM,Cambodia,True,C_watchlist,energy_logistics,51.351541779926926,diplo_analytic,0.3045488890845261
+HND,Honduras,True,C_watchlist,digital_finance_business_informatics,44.847385513116016,diplo_analytic,0.30250963946369047
+GTM,Guatemala,True,C_watchlist,digital_finance_business_informatics,47.54517662452329,diplo_analytic,0.3018015603814399
+LBN,Lebanon,True,C_watchlist,digital_finance_business_informatics,42.22320638118972,diplo_analytic,0.2904569955899934
+SEN,Senegal,True,C_watchlist,energy_logistics,47.20747192424508,diplo_analytic,0.28783842707201424
+RWA,Rwanda,True,C_watchlist,energy_logistics,45.102419272730444,diplo_analytic,0.27704610566341786
+SWZ,Eswatini,True,C_watchlist,energy_logistics,38.32919054130817,diplo_analytic,0.274762629394985
+GHA,Ghana,True,C_watchlist,energy_logistics,49.46182316886063,diplo_analytic,0.27453496199942434
+PNG,Papua New Guinea,True,C_watchlist,energy_logistics,38.01992753087212,diplo_analytic,0.26278713818649113
+NPL,Nepal,True,C_watchlist,digital_finance_business_informatics,42.945670931738036,diplo_analytic,0.2562185949178756
+KEN,Kenya,True,C_watchlist,digital_finance_business_informatics,43.38365528520892,diplo_analytic,0.25541206938124517
+ZMB,Zambia,True,C_watchlist,energy_logistics,39.862922778194324,diplo_analytic,0.255092218252945
+NIC,Nicaragua,True,C_watchlist,energy_logistics,44.417510979559,diplo_analytic,0.25488401112044107
+BOL,Bolivia,True,C_watchlist,digital_finance_business_informatics,42.90567282029563,diplo_analytic,0.2499107760269549
+CIV,Côte d'Ivoire,True,C_watchlist,energy_logistics,46.72998380859494,diplo_analytic,0.24822367439098497
+VEN,"Venezuela, RB",True,C_watchlist,digital_finance_business_informatics,48.92530160508401,diplo_analytic,0.24307064436868364
+BGD,Bangladesh,True,C_watchlist,digital_finance_business_informatics,47.79421397352352,diplo_analytic,0.24065086561096405
+PRK,"Korea, Dem. People's Rep.",True,C_watchlist,energy_logistics,40.249158239424965,diplo_analytic,0.23219228158962713
+GMB,"Gambia, The",True,C_watchlist,digital_finance_business_informatics,38.74328416687975,diplo_analytic,0.22492798757638907
+BEN,Benin,True,C_watchlist,energy_logistics,43.6556746787181,diplo_analytic,0.21903485671451522
+MRT,Mauritania,True,C_watchlist,energy_logistics,44.007475644531205,diplo_analytic,0.21827759983704556
+GAB,Gabon,True,C_watchlist,energy_logistics,42.790002606972784,diplo_analytic,0.216770459233321
+LAO,Lao PDR,True,C_watchlist,digital_finance_business_informatics,43.12642122866685,diplo_analytic,0.2136136524123482
+TGO,Togo,True,C_watchlist,energy_logistics,41.16434377996585,diplo_analytic,0.2090227586663389
+TJK,Tajikistan,True,C_watchlist,energy_logistics,44.825614594946614,diplo_analytic,0.20197037426788844
+COG,"Congo, Rep.",True,C_watchlist,energy_logistics,41.00779474375392,diplo_analytic,0.19374854267293493
+PAK,Pakistan,True,C_watchlist,digital_finance_business_informatics,43.72103026464743,diplo_analytic,0.1887783803350121
+NGA,Nigeria,True,C_watchlist,digital_finance_business_informatics,45.190703553574984,diplo_analytic,0.18795917309347046
+GNQ,Equatorial Guinea,True,C_watchlist,digital_finance_business_informatics,36.07833168481788,diplo_analytic,0.1826165834559875
+GIN,Guinea,True,C_watchlist,energy_logistics,41.799254459506,diplo_analytic,0.18165115566858586
+TKM,Turkmenistan,True,C_watchlist,energy_logistics,39.889619223961944,diplo_analytic,0.1814426136660327
+CMR,Cameroon,True,C_watchlist,digital_finance_business_informatics,40.351353809971485,diplo_analytic,0.18086978812816976
+IRQ,Iraq,True,C_watchlist,digital_finance_business_informatics,40.726738325153214,diplo_analytic,0.1745451506921745
+MOZ,Mozambique,True,C_watchlist,energy_logistics,36.42827000085332,diplo_analytic,0.16316206743172884
+MMR,Myanmar,True,C_watchlist,energy_logistics,34.226587140850995,diplo_analytic,0.1631056522611177
+TZA,Tanzania,True,C_watchlist,energy_logistics,41.531468415322806,diplo_analytic,0.16019411909886386
+SOM,"Somalia, Fed. Rep.",True,C_watchlist,energy_logistics,34.668864681984545,diplo_analytic,0.15925793996786458
+COM,Comoros,True,C_watchlist,digital_finance_business_informatics,30.97527591253155,diplo_analytic,0.15306260833125815
+MWI,Malawi,True,D_not_recommended,energy_logistics,29.454257644979226,diplo_analytic,0.15025808307822874
+BFA,Burkina Faso,True,C_watchlist,energy_logistics,36.89925798862305,diplo_analytic,0.149553815328358
+ETH,Ethiopia,True,C_watchlist,energy_logistics,39.60032028440882,diplo_analytic,0.14805738578660452
+ZWE,Zimbabwe,True,C_watchlist,digital_finance_business_informatics,35.303555018376166,diplo_analytic,0.14328307202245247
+NER,Niger,True,C_watchlist,energy_logistics,37.417087250896316,diplo_analytic,0.14087658783918475
+UGA,Uganda,True,C_watchlist,energy_logistics,38.693290404779965,diplo_analytic,0.14077382002770525
+MDG,Madagascar,True,C_watchlist,energy_logistics,35.03199427120714,diplo_analytic,0.13283460124473512
+AGO,Angola,True,C_watchlist,energy_logistics,43.16055283663719,diplo_analytic,0.13079270525013287
+SSD,South Sudan,True,D_not_recommended,economic_legal,25.452158339557958,diplo_analytic,0.12981449250896346
+SYR,Syrian Arab Republic,True,C_watchlist,digital_finance_business_informatics,32.08816227829102,diplo_analytic,0.12696502152510838
+COD,"Congo, Dem. Rep.",True,C_watchlist,energy_logistics,38.71033337278833,diplo_analytic,0.12113204877708887
+LBR,Liberia,True,C_watchlist,energy_logistics,33.08588126049006,diplo_analytic,0.1055056017977537
+SDN,Sudan,True,D_not_recommended,digital_finance_business_informatics,25.23691264207015,diplo_analytic,0.09973263898667648
+BDI,Burundi,True,C_watchlist,energy_logistics,31.917397798870084,diplo_analytic,0.09682192685808229
+HTI,Haiti,True,D_not_recommended,digital_finance_business_informatics,23.236249315141873,diplo_analytic,0.09546710110591337
+SLE,Sierra Leone,True,C_watchlist,energy_logistics,31.177824593197016,diplo_analytic,0.09056883831007836
+AFG,Afghanistan,True,C_watchlist,energy_logistics,30.616816374833117,diplo_analytic,0.08837982849396582
+MLI,Mali,True,C_watchlist,energy_logistics,35.78657558885152,diplo_analytic,0.07787915681873409
+ERI,Eritrea,True,C_watchlist,energy_logistics,31.123532586026492,diplo_analytic,0.05790977076161689
+YEM,"Yemen, Rep.",True,C_watchlist,energy_logistics,31.17985456108278,diplo_analytic,0.048926393758546814
+TCD,Chad,True,C_watchlist,energy_logistics,31.01305221161236,diplo_analytic,0.039715415717303505
+CAF,Central African Republic,True,D_not_recommended,energy_logistics,22.07106913452306,diplo_analytic,0.030067846447895164
+GNB,Guinea-Bissau,True,D_not_recommended,energy_logistics,26.73577502222319,diplo_analytic,0.024794544001248905
+HKG,"Hong Kong SAR, China",False,D_excluded,diplomatic_analytic,0.0,diplo_analytic,0.9779188488381757
+SGP,Singapore,False,D_excluded,diplomatic_analytic,0.0,diplo_analytic,0.970405363207882
+CYP,Cyprus,False,D_excluded,diplomatic_analytic,0.0,diplo_analytic,0.8958667701048761
+NLD,Netherlands,False,D_excluded,economic_legal,0.0,diplo_analytic,0.891253431620438
+MAC,"Macao SAR, China",False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.8740056094201782
+IRL,Ireland,False,D_excluded,economic_legal,0.0,diplo_analytic,0.8642868634553297
+MLT,Malta,False,D_excluded,energy_logistics,0.0,diplo_analytic,0.8590457496732613
+BEL,Belgium,False,D_excluded,economic_legal,0.0,diplo_analytic,0.8469140137520668
+CHE,Switzerland,False,D_excluded,economic_legal,0.0,diplo_analytic,0.8411728625419675
+MCO,Monaco,False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.839554523142762
+DNK,Denmark,False,D_excluded,economic_legal,0.0,diplo_analytic,0.8132502423781552
+AUT,Austria,False,D_excluded,diplomatic_analytic,0.0,diplo_analytic,0.8116173542396621
+LUX,Luxembourg,False,D_excluded,economic_legal,0.0,diplo_analytic,0.8099854317546418
+SWE,Sweden,False,D_excluded,diplomatic_analytic,0.0,diplo_analytic,0.8051131026018336
+AND,Andorra,False,D_excluded,economic_legal,0.0,diplo_analytic,0.8017772013990455
+FIN,Finland,False,D_excluded,diplomatic_analytic,0.0,diplo_analytic,0.7928816187332965
+EST,Estonia,False,D_excluded,economic_legal,0.0,diplo_analytic,0.7867843971397945
+LTU,Lithuania,False,D_excluded,economic_legal,0.0,diplo_analytic,0.7756323700057512
+SMR,San Marino,False,D_excluded,economic_legal,0.0,diplo_analytic,0.7720758623031996
+SVN,Slovenia,False,D_excluded,diplomatic_analytic,0.0,diplo_analytic,0.763156907261416
+LVA,Latvia,False,D_excluded,diplomatic_analytic,0.0,diplo_analytic,0.7593557159108864
+AUS,Australia,False,D_excluded,diplomatic_analytic,0.0,diplo_analytic,0.7588391339715497
+ISL,Iceland,False,D_excluded,diplomatic_analytic,0.0,diplo_analytic,0.7553848994622887
+IMN,Isle of Man,False,D_excluded,diplomatic_analytic,0.0,diplo_analytic,0.751007362415522
+GBR,United Kingdom,False,D_excluded,diplomatic_analytic,0.0,diplo_analytic,0.7423650507047871
+KOR,"Korea, Rep.",False,D_excluded,diplomatic_analytic,0.0,diplo_analytic,0.7422395680393014
+NOR,Norway,False,D_excluded,diplomatic_analytic,0.0,diplo_analytic,0.7386044401096326
+USA,United States,False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.7279007730396575
+NZL,New Zealand,False,D_excluded,diplomatic_analytic,0.0,diplo_analytic,0.7253863435519454
+CAN,Canada,False,D_excluded,economic_legal,0.0,diplo_analytic,0.7246067181880003
+DEU,Germany,False,D_excluded,economic_legal,0.0,diplo_analytic,0.7236964859547079
+ESP,Spain,False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.720662919707534
+CZE,Czechia,False,D_excluded,economic_legal,0.0,diplo_analytic,0.7183331930630189
+PRT,Portugal,False,D_excluded,diplomatic_analytic,0.0,diplo_analytic,0.714352799317581
+GRL,Greenland,False,D_excluded,economic_legal,0.0,diplo_analytic,0.7107461481422894
+FRA,France,False,D_excluded,economic_legal,0.0,diplo_analytic,0.7059644959198267
+ABW,Aruba,False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.6999745865353088
+JPN,Japan,False,D_excluded,economic_legal,0.0,diplo_analytic,0.6938466440879627
+GRC,Greece,False,D_excluded,diplomatic_analytic,0.0,diplo_analytic,0.6897277918128321
+VIR,Virgin Islands (US),False,D_excluded,economic_legal,0.0,diplo_analytic,0.6734626608937736
+GIB,Gibraltar,False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.6715577461310581
+SVK,Slovak Republic,False,D_excluded,economic_legal,0.0,diplo_analytic,0.6698402345820298
+CYM,Cayman Islands,False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.6686779960485739
+LIE,Liechtenstein,False,D_excluded,economic_legal,0.0,diplo_analytic,0.6682098911124349
+HRV,Croatia,False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.6662334212252943
+HUN,Hungary,False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.6486590247537197
+POL,Poland,False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.646588395548225
+FRO,Faroe Islands,False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.6345461699982214
+ITA,Italy,False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.6185103628225064
+BGR,Bulgaria,False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.6098486997550511
+BMU,Bermuda,False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.5879883024894031
+ASM,American Samoa,False,D_excluded,economic_legal,0.0,diplo_analytic,0.5706631561705643
+PRI,Puerto Rico (US),False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.5689517190706332
+CUW,Curaçao,False,D_excluded,energy_logistics,0.0,diplo_analytic,0.5643834380785621
+MNE,Montenegro,False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.5614109617238691
+ROU,Romania,False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.5468444258955747
+MKD,North Macedonia,False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.5400249134993331
+GUM,Guam,False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.5385515922351951
+MNP,Northern Mariana Islands,False,D_excluded,energy_logistics,0.0,diplo_analytic,0.5251654856946077
+ALB,Albania,False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.5224577159313859
+UKR,Ukraine,False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.5185251848232948
+BHS,"Bahamas, The",False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.5123910395258641
+XKX,Kosovo,False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.5064170046910913
+NCL,New Caledonia,False,D_excluded,diplomatic_analytic,0.0,diplo_analytic,0.48842760392324414
+PYF,French Polynesia,False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.48468825982484454
+TCA,Turks and Caicos Islands,False,D_excluded,economic_legal,0.0,diplo_analytic,0.4771324904352209
+FSM,"Micronesia, Fed. Sts.",False,D_excluded,diplomatic_analytic,0.0,diplo_analytic,0.467766308287407
+SXM,Sint Maarten (Dutch part),False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.4645677232287363
+MAF,St. Martin (French part),False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.43947563678626245
+KAZ,Kazakhstan,False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.43736492304498703
+VGB,British Virgin Islands,False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.4299105176758265
+RUS,Russian Federation,False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.3750169076073405
+PSE,West Bank and Gaza,False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.3529275977468888
+UZB,Uzbekistan,False,D_excluded,digital_finance_business_informatics,0.0,diplo_analytic,0.33287737254583044
+ARE,United Arab Emirates,True,B_strategic_with_subsidy,energy_logistics,63.506106745664795,econ_legal,0.793380405985645
+CHI,Channel Islands,True,B_strategic_with_subsidy,digital_finance_business_informatics,47.06173809381484,econ_legal,0.7440257621492605
+SYC,Seychelles,True,C_watchlist,energy_logistics,43.17561958370638,econ_legal,0.7300778855645215
+MUS,Mauritius,True,B_strategic_with_subsidy,economic_legal,51.50101467494254,econ_legal,0.7210142935061333
+BHR,Bahrain,True,B_strategic_with_subsidy,digital_finance_business_informatics,52.65419429932447,econ_legal,0.7094178151904993
+ISR,Israel,True,C_watchlist,economic_legal,51.57071280677754,econ_legal,0.669317583763911
+ATG,Antigua and Barbuda,True,C_watchlist,digital_finance_business_informatics,38.677065581463324,econ_legal,0.6607795193742892
+PLW,Palau,True,C_watchlist,diplomatic_analytic,38.38639633987301,econ_legal,0.6591658721702729
+LCA,St. Lucia,True,C_watchlist,digital_finance_business_informatics,38.45721814427345,econ_legal,0.6319141632764691
+MYS,Malaysia,True,B_strategic_with_subsidy,digital_finance_business_informatics,64.94181309762479,econ_legal,0.6310351805141878
+MDV,Maldives,True,B_strategic_with_subsidy,digital_finance_business_informatics,48.372777246174806,econ_legal,0.6310100793781126
+BRN,Brunei Darussalam,True,B_strategic_with_subsidy,digital_finance_business_informatics,48.06562679118636,econ_legal,0.6246512907093391
+BRB,Barbados,True,C_watchlist,digital_finance_business_informatics,39.78110075570262,econ_legal,0.6191306893720286
+QAT,Qatar,True,B_strategic_with_subsidy,digital_finance_business_informatics,47.50999221070786,econ_legal,0.6188656221964999
+GEO,Georgia,True,B_strategic_with_subsidy,digital_finance_business_informatics,58.64935681598443,econ_legal,0.6017820870661431
+KNA,St. Kitts and Nevis,True,C_watchlist,diplomatic_analytic,39.99052269140107,econ_legal,0.5949811135910256
+ARM,Armenia,True,B_strategic_with_subsidy,energy_logistics,53.626395578505836,econ_legal,0.5933613330837312
+THA,Thailand,True,B_strategic_with_subsidy,digital_finance_business_informatics,67.02326061545864,econ_legal,0.5880162963394429
+CRI,Costa Rica,True,B_strategic_with_subsidy,digital_finance_business_informatics,54.05105591864087,econ_legal,0.5870450432857287
+URY,Uruguay,True,C_watchlist,digital_finance_business_informatics,51.95960939558758,econ_legal,0.5750271054215315
+NRU,Nauru,True,C_watchlist,energy_logistics,38.27228355763461,econ_legal,0.573440556331596
+KWT,Kuwait,True,C_watchlist,digital_finance_business_informatics,47.91068954833261,econ_legal,0.572805525069912
+PAN,Panama,True,C_watchlist,digital_finance_business_informatics,51.29520341880863,econ_legal,0.567845600497929
+GUY,Guyana,True,B_strategic_with_subsidy,energy_logistics,48.56298070361997,econ_legal,0.5588369005293896
+VCT,St. Vincent and the Grenadines,True,C_watchlist,digital_finance_business_informatics,41.324556695825734,econ_legal,0.5577219999473046
+DJI,Djibouti,True,C_watchlist,energy_logistics,44.75150391396487,econ_legal,0.5554859375124632
+GRD,Grenada,True,C_watchlist,diplomatic_analytic,45.2972599093107,econ_legal,0.5520640341142965
+OMN,Oman,True,C_watchlist,digital_finance_business_informatics,52.80355883032395,econ_legal,0.5513638206161292
+SRB,Serbia,True,B_strategic_with_subsidy,digital_finance_business_informatics,53.34383515270294,econ_legal,0.5462472873604773
+CHL,Chile,True,C_watchlist,diplomatic_analytic,61.65425234476375,econ_legal,0.5461190825659953
+CPV,Cabo Verde,True,B_strategic_with_subsidy,digital_finance_business_informatics,46.97976426227924,econ_legal,0.5433646742315152
+MHL,Marshall Islands,True,C_watchlist,diplomatic_analytic,32.47935637333317,econ_legal,0.5325397715230084
+CUB,Cuba,True,C_watchlist,digital_finance_business_informatics,49.53467590314424,econ_legal,0.5302230603317367
+BWA,Botswana,True,C_watchlist,economic_legal,46.71814811738386,econ_legal,0.529843516679592
+DMA,Dominica,True,C_watchlist,digital_finance_business_informatics,33.897585834780976,econ_legal,0.508426649423301
+WSM,Samoa,True,C_watchlist,diplomatic_analytic,39.92578551007817,econ_legal,0.5046923502433557
+SAU,Saudi Arabia,True,A_open_priority,digital_finance_business_informatics,73.39919974824426,econ_legal,0.4987242174521772
+MDA,Moldova,True,C_watchlist,diplomatic_analytic,47.6234291835142,econ_legal,0.4943545755282836
+JOR,Jordan,True,C_watchlist,digital_finance_business_informatics,53.46718285438573,econ_legal,0.49188584667583746
+TTO,Trinidad and Tobago,True,C_watchlist,digital_finance_business_informatics,43.723726332612,econ_legal,0.4860580733240554
+VNM,Viet Nam,True,neutral_in_preparation,digital_finance_business_informatics,80.38224626694874,econ_legal,0.4789220785758553
+NAM,Namibia,True,C_watchlist,energy_logistics,49.236258565932964,econ_legal,0.4736969049751977
+TUN,Tunisia,True,C_watchlist,digital_finance_business_informatics,50.026399199788486,econ_legal,0.4685487869207522
+TUV,Tuvalu,True,C_watchlist,energy_logistics,34.2399182372718,econ_legal,0.468258809853416
+FJI,Fiji,True,C_watchlist,diplomatic_analytic,49.426088512058776,econ_legal,0.46741915875822443
+BIH,Bosnia and Herzegovina,True,C_watchlist,digital_finance_business_informatics,46.839543817661145,econ_legal,0.4641741250007679
+KIR,Kiribati,True,C_watchlist,digital_finance_business_informatics,39.482289945583105,econ_legal,0.46179956286022933
+DOM,Dominican Republic,True,C_watchlist,digital_finance_business_informatics,56.35290616731421,econ_legal,0.4573439836951214
+BLZ,Belize,True,C_watchlist,digital_finance_business_informatics,41.46611828128851,econ_legal,0.45557161779563077
+MNG,Mongolia,True,B_strategic_with_subsidy,energy_logistics,55.37927627117115,econ_legal,0.45426100144938053
+ZAF,South Africa,True,C_watchlist,digital_finance_business_informatics,51.60149216781926,econ_legal,0.44205143291771526
+JAM,Jamaica,True,C_watchlist,digital_finance_business_informatics,43.302374269778326,econ_legal,0.441323558238551
+BTN,Bhutan,True,C_watchlist,digital_finance_business_informatics,42.60060879523681,econ_legal,0.4402058302836045
+TUR,Türkiye,True,A_open_priority,digital_finance_business_informatics,75.69950238081866,econ_legal,0.43427885734866356
+SLV,El Salvador,True,C_watchlist,digital_finance_business_informatics,47.60189895242998,econ_legal,0.42752999074050996
+PHL,Philippines,True,A_open_priority,digital_finance_business_informatics,69.0313710650312,econ_legal,0.4269975819619459
+MEX,Mexico,True,A_open_priority,digital_finance_business_informatics,70.8022227881451,econ_legal,0.4228264231461593
+SUR,Suriname,True,C_watchlist,digital_finance_business_informatics,36.37455052046867,econ_legal,0.4064731936127829
+MAR,Morocco,True,C_watchlist,digital_finance_business_informatics,54.71552027982817,econ_legal,0.402613949632607
+TLS,Timor-Leste,True,C_watchlist,diplomatic_analytic,37.31053747414228,econ_legal,0.3975805584998281
+CHN,China,True,A_open_priority,digital_finance_business_informatics,76.21954369266368,econ_legal,0.3953139753244509
+STP,São Tomé and Principe,True,C_watchlist,digital_finance_business_informatics,34.88207071631184,econ_legal,0.39400972228557013
+BLR,Belarus,True,B_strategic_with_subsidy,digital_finance_business_informatics,51.29352516091667,econ_legal,0.3898746629698579
+COL,Colombia,True,C_watchlist,digital_finance_business_informatics,55.307013275857685,econ_legal,0.389187646763694
+BRA,Brazil,True,A_open_priority,digital_finance_business_informatics,73.02874452478801,econ_legal,0.38336647589657835
+PRY,Paraguay,True,C_watchlist,digital_finance_business_informatics,50.26966076855217,econ_legal,0.3719027243277321
+TON,Tonga,True,C_watchlist,diplomatic_analytic,35.88498708341969,econ_legal,0.3693688216392194
+PER,Peru,True,C_watchlist,digital_finance_business_informatics,54.806961566652056,econ_legal,0.3681836583810984
+SWZ,Eswatini,True,C_watchlist,energy_logistics,38.32919054130817,econ_legal,0.36739548414616574
+AZE,Azerbaijan,True,C_watchlist,digital_finance_business_informatics,50.23385427133902,econ_legal,0.36403875821398596
+LKA,Sri Lanka,True,C_watchlist,digital_finance_business_informatics,46.64124794581401,econ_legal,0.3610027700510941
+ARG,Argentina,True,A_open_priority,diplomatic_analytic,64.40593805490838,econ_legal,0.35788597666345373
+KGZ,Kyrgyz Republic,True,B_strategic_with_subsidy,energy_logistics,53.505499708726475,econ_legal,0.3522293912859342
+GTM,Guatemala,True,C_watchlist,digital_finance_business_informatics,47.54517662452329,econ_legal,0.3483073686841829
+VUT,Vanuatu,True,D_not_recommended,economic_legal,29.43103665089214,econ_legal,0.33830437255421203
+HND,Honduras,True,C_watchlist,digital_finance_business_informatics,44.847385513116016,econ_legal,0.33654424966546415
+IND,India,True,A_open_priority,digital_finance_business_informatics,71.20497466817474,econ_legal,0.33476691233992334
+IDN,Indonesia,True,A_open_priority,digital_finance_business_informatics,71.37852896112831,econ_legal,0.3291049607346231
+ECU,Ecuador,True,C_watchlist,digital_finance_business_informatics,46.96174998052698,econ_legal,0.32683221586743366
+LSO,Lesotho,True,C_watchlist,energy_logistics,39.05631361458721,econ_legal,0.32342093051263376
+PRK,"Korea, Dem. People's Rep.",True,C_watchlist,energy_logistics,40.249158239424965,econ_legal,0.3191664799966621
+KHM,Cambodia,True,C_watchlist,energy_logistics,51.351541779926926,econ_legal,0.314695709463807
+EGY,"Egypt, Arab Rep.",True,C_watchlist,digital_finance_business_informatics,56.618254902616336,econ_legal,0.31028747244187194
+RWA,Rwanda,True,C_watchlist,energy_logistics,45.102419272730444,econ_legal,0.3027034234585237
+PNG,Papua New Guinea,True,C_watchlist,energy_logistics,38.01992753087212,econ_legal,0.30086337355602283
+GAB,Gabon,True,C_watchlist,energy_logistics,42.790002606972784,econ_legal,0.3001873501444937
+CIV,Côte d'Ivoire,True,C_watchlist,energy_logistics,46.72998380859494,econ_legal,0.29943459813462653
+KEN,Kenya,True,C_watchlist,digital_finance_business_informatics,43.38365528520892,econ_legal,0.285374396219849
+GHA,Ghana,True,C_watchlist,energy_logistics,49.46182316886063,econ_legal,0.2844789152630813
+ZMB,Zambia,True,C_watchlist,energy_logistics,39.862922778194324,econ_legal,0.2829752484593965
+SEN,Senegal,True,C_watchlist,energy_logistics,47.20747192424508,econ_legal,0.2760146766917058
+LBN,Lebanon,True,C_watchlist,digital_finance_business_informatics,42.22320638118972,econ_legal,0.27515178883008484
+NIC,Nicaragua,True,C_watchlist,energy_logistics,44.417510979559,econ_legal,0.2675094535566602
+SLB,Solomon Islands,True,C_watchlist,energy_logistics,36.85282157893492,econ_legal,0.26723744810355476
+NPL,Nepal,True,C_watchlist,digital_finance_business_informatics,42.945670931738036,econ_legal,0.25493159807235727
+DZA,Algeria,True,C_watchlist,digital_finance_business_informatics,52.559343549696514,econ_legal,0.25453299680385094
+MRT,Mauritania,True,C_watchlist,energy_logistics,44.007475644531205,econ_legal,0.2516817880256818
+IRN,"Iran, Islamic Rep.",True,C_watchlist,digital_finance_business_informatics,53.971747168417394,econ_legal,0.24648162930201045
+GNQ,Equatorial Guinea,True,C_watchlist,digital_finance_business_informatics,36.07833168481788,econ_legal,0.24645780011405677
+LBY,Libya,True,C_watchlist,energy_logistics,44.04255376733484,econ_legal,0.2450806223159346
+BGD,Bangladesh,True,C_watchlist,digital_finance_business_informatics,47.79421397352352,econ_legal,0.244784616132352
+LAO,Lao PDR,True,C_watchlist,digital_finance_business_informatics,43.12642122866685,econ_legal,0.24288456515591905
+BOL,Bolivia,True,C_watchlist,digital_finance_business_informatics,42.90567282029563,econ_legal,0.2408347190129449
+GMB,"Gambia, The",True,C_watchlist,digital_finance_business_informatics,38.74328416687975,econ_legal,0.23933784894271037
+NGA,Nigeria,True,C_watchlist,digital_finance_business_informatics,45.190703553574984,econ_legal,0.23294409325744916
+COG,"Congo, Rep.",True,C_watchlist,energy_logistics,41.00779474375392,econ_legal,0.23020930157954317
+TGO,Togo,True,C_watchlist,energy_logistics,41.16434377996585,econ_legal,0.22375243699144992
+BEN,Benin,True,C_watchlist,energy_logistics,43.6556746787181,econ_legal,0.22102733645200726
+TKM,Turkmenistan,True,C_watchlist,energy_logistics,39.889619223961944,econ_legal,0.2080590071115178
+IRQ,Iraq,True,C_watchlist,digital_finance_business_informatics,40.726738325153214,econ_legal,0.20566896824052625
+PAK,Pakistan,True,C_watchlist,digital_finance_business_informatics,43.72103026464743,econ_legal,0.19591355320550266
+AGO,Angola,True,C_watchlist,energy_logistics,43.16055283663719,econ_legal,0.19175770802096861
+SOM,"Somalia, Fed. Rep.",True,C_watchlist,energy_logistics,34.668864681984545,econ_legal,0.18875015107302467
+CMR,Cameroon,True,C_watchlist,digital_finance_business_informatics,40.351353809971485,econ_legal,0.17900803268087287
+GIN,Guinea,True,C_watchlist,energy_logistics,41.799254459506,econ_legal,0.17746499317506859
+MOZ,Mozambique,True,C_watchlist,energy_logistics,36.42827000085332,econ_legal,0.1758293809778274
+BFA,Burkina Faso,True,C_watchlist,energy_logistics,36.89925798862305,econ_legal,0.17374848548002467
+SSD,South Sudan,True,D_not_recommended,economic_legal,25.452158339557958,econ_legal,0.17356003648992946
+MMR,Myanmar,True,C_watchlist,energy_logistics,34.226587140850995,econ_legal,0.16725166043390735
+YEM,"Yemen, Rep.",True,C_watchlist,energy_logistics,31.17985456108278,econ_legal,0.16531788915108786
+UGA,Uganda,True,C_watchlist,energy_logistics,38.693290404779965,econ_legal,0.16315439108701624
+ZWE,Zimbabwe,True,C_watchlist,digital_finance_business_informatics,35.303555018376166,econ_legal,0.15674381648875468
+MWI,Malawi,True,D_not_recommended,energy_logistics,29.454257644979226,econ_legal,0.15626623000714154
+TZA,Tanzania,True,C_watchlist,energy_logistics,41.531468415322806,econ_legal,0.15383499738275008
+MDG,Madagascar,True,C_watchlist,energy_logistics,35.03199427120714,econ_legal,0.15080806132733734
+VEN,"Venezuela, RB",True,C_watchlist,digital_finance_business_informatics,48.92530160508401,econ_legal,0.14957554657029767
+COD,"Congo, Dem. Rep.",True,C_watchlist,energy_logistics,38.71033337278833,econ_legal,0.14442956615042488
+NER,Niger,True,C_watchlist,energy_logistics,37.417087250896316,econ_legal,0.14145720959773106
+COM,Comoros,True,C_watchlist,digital_finance_business_informatics,30.97527591253155,econ_legal,0.13411534257948507
+TJK,Tajikistan,True,C_watchlist,energy_logistics,44.825614594946614,econ_legal,0.1281610377762714
+LBR,Liberia,True,C_watchlist,energy_logistics,33.08588126049006,econ_legal,0.1178923670958074
+MLI,Mali,True,C_watchlist,energy_logistics,35.78657558885152,econ_legal,0.11523780122708328
+SLE,Sierra Leone,True,C_watchlist,energy_logistics,31.177824593197016,econ_legal,0.11495748898377657
+BDI,Burundi,True,C_watchlist,energy_logistics,31.917397798870084,econ_legal,0.11063231535671011
+AFG,Afghanistan,True,C_watchlist,energy_logistics,30.616816374833117,econ_legal,0.10325831340393828
+ERI,Eritrea,True,C_watchlist,energy_logistics,31.123532586026492,econ_legal,0.10002310724139918
+ETH,Ethiopia,True,C_watchlist,energy_logistics,39.60032028440882,econ_legal,0.0912502119322522
+HTI,Haiti,True,D_not_recommended,digital_finance_business_informatics,23.236249315141873,econ_legal,0.08860428703879514
+SDN,Sudan,True,D_not_recommended,digital_finance_business_informatics,25.23691264207015,econ_legal,0.08816081419065214
+SYR,Syrian Arab Republic,True,C_watchlist,digital_finance_business_informatics,32.08816227829102,econ_legal,0.07864697510808824
+TCD,Chad,True,C_watchlist,energy_logistics,31.01305221161236,econ_legal,0.05617670260161182
+GNB,Guinea-Bissau,True,D_not_recommended,energy_logistics,26.73577502222319,econ_legal,0.04226213242970952
+CAF,Central African Republic,True,D_not_recommended,energy_logistics,22.07106913452306,econ_legal,0.03842862313401651
+LUX,Luxembourg,False,D_excluded,economic_legal,0.0,econ_legal,1.0
+HKG,"Hong Kong SAR, China",False,D_excluded,diplomatic_analytic,0.0,econ_legal,0.9730198036379971
+SGP,Singapore,False,D_excluded,diplomatic_analytic,0.0,econ_legal,0.965988703700149
+NLD,Netherlands,False,D_excluded,economic_legal,0.0,econ_legal,0.8991211732005535
+IRL,Ireland,False,D_excluded,economic_legal,0.0,econ_legal,0.8971970573533875
+MLT,Malta,False,D_excluded,energy_logistics,0.0,econ_legal,0.8917162981417336
+MAC,"Macao SAR, China",False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.888608540649921
+CHE,Switzerland,False,D_excluded,economic_legal,0.0,econ_legal,0.8813454261683721
+ABW,Aruba,False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.8694244867548779
+CYP,Cyprus,False,D_excluded,diplomatic_analytic,0.0,econ_legal,0.8662844440899183
+BEL,Belgium,False,D_excluded,economic_legal,0.0,econ_legal,0.85910980426271
+AND,Andorra,False,D_excluded,economic_legal,0.0,econ_legal,0.838722315340904
+DNK,Denmark,False,D_excluded,economic_legal,0.0,econ_legal,0.8306066234647365
+SMR,San Marino,False,D_excluded,economic_legal,0.0,econ_legal,0.8295723660661392
+MCO,Monaco,False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.8192690099881458
+VIR,Virgin Islands (US),False,D_excluded,economic_legal,0.0,econ_legal,0.8144275470227024
+EST,Estonia,False,D_excluded,economic_legal,0.0,econ_legal,0.8115540880229556
+CYM,Cayman Islands,False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.8014401518420666
+SWE,Sweden,False,D_excluded,diplomatic_analytic,0.0,econ_legal,0.7983654662909175
+LTU,Lithuania,False,D_excluded,economic_legal,0.0,econ_legal,0.7843550690495544
+AUT,Austria,False,D_excluded,diplomatic_analytic,0.0,econ_legal,0.7768046478636392
+BMU,Bermuda,False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.7487039904334695
+ISL,Iceland,False,D_excluded,diplomatic_analytic,0.0,econ_legal,0.7481336146494696
+IMN,Isle of Man,False,D_excluded,diplomatic_analytic,0.0,econ_legal,0.7440257621492605
+CZE,Czechia,False,D_excluded,economic_legal,0.0,econ_legal,0.7420057825843054
+GBR,United Kingdom,False,D_excluded,diplomatic_analytic,0.0,econ_legal,0.7404816078323798
+LVA,Latvia,False,D_excluded,diplomatic_analytic,0.0,econ_legal,0.7395895738412127
+USA,United States,False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.7384505273414778
+FIN,Finland,False,D_excluded,diplomatic_analytic,0.0,econ_legal,0.7378990790359243
+GRL,Greenland,False,D_excluded,economic_legal,0.0,econ_legal,0.734832953650446
+DEU,Germany,False,D_excluded,economic_legal,0.0,econ_legal,0.7328757835455876
+SVN,Slovenia,False,D_excluded,diplomatic_analytic,0.0,econ_legal,0.7305236232501565
+CAN,Canada,False,D_excluded,economic_legal,0.0,econ_legal,0.7250457413544849
+SVK,Slovak Republic,False,D_excluded,economic_legal,0.0,econ_legal,0.7232768437161087
+LIE,Liechtenstein,False,D_excluded,economic_legal,0.0,econ_legal,0.7232020710303834
+FRA,France,False,D_excluded,economic_legal,0.0,econ_legal,0.7113117663874481
+NZL,New Zealand,False,D_excluded,diplomatic_analytic,0.0,econ_legal,0.711226935225531
+AUS,Australia,False,D_excluded,diplomatic_analytic,0.0,econ_legal,0.7048582570066836
+JPN,Japan,False,D_excluded,economic_legal,0.0,econ_legal,0.6970323765568796
+NOR,Norway,False,D_excluded,diplomatic_analytic,0.0,econ_legal,0.6915467552788163
+CUW,Curaçao,False,D_excluded,energy_logistics,0.0,econ_legal,0.674598425114018
+PRT,Portugal,False,D_excluded,diplomatic_analytic,0.0,econ_legal,0.6739981888276709
+KOR,"Korea, Rep.",False,D_excluded,diplomatic_analytic,0.0,econ_legal,0.6642934052806603
+HUN,Hungary,False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.6619372943099884
+ESP,Spain,False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.653008256037874
+GIB,Gibraltar,False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.6498632539602663
+FRO,Faroe Islands,False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.6403200866602915
+SXM,Sint Maarten (Dutch part),False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.6326512930731684
+HRV,Croatia,False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.6258537958977126
+POL,Poland,False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.625530758220258
+BHS,"Bahamas, The",False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.6245540497299537
+GRC,Greece,False,D_excluded,diplomatic_analytic,0.0,econ_legal,0.6236083573798834
+ASM,American Samoa,False,D_excluded,economic_legal,0.0,econ_legal,0.6077569465271279
+BGR,Bulgaria,False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.6042013685635546
+ITA,Italy,False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.6033303356585316
+MNE,Montenegro,False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.587657837714836
+ROU,Romania,False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.5783399740763873
+TCA,Turks and Caicos Islands,False,D_excluded,economic_legal,0.0,econ_legal,0.5741573304766896
+MKD,North Macedonia,False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.5717376709420308
+PRI,Puerto Rico (US),False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.5701732535689967
+PYF,French Polynesia,False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.5465959225570989
+GUM,Guam,False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.5179222164967382
+MNP,Northern Mariana Islands,False,D_excluded,energy_logistics,0.0,econ_legal,0.4968769209156128
+MAF,St. Martin (French part),False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.481549269455281
+VGB,British Virgin Islands,False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.481549269455281
+KAZ,Kazakhstan,False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.45873411503683525
+NCL,New Caledonia,False,D_excluded,diplomatic_analytic,0.0,econ_legal,0.45333572770510794
+FSM,"Micronesia, Fed. Sts.",False,D_excluded,diplomatic_analytic,0.0,econ_legal,0.45022953216029066
+ALB,Albania,False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.4278242329362383
+UKR,Ukraine,False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.4127473559025614
+XKX,Kosovo,False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.4087253592422658
+RUS,Russian Federation,False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.34076514759098675
+PSE,West Bank and Gaza,False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.32356132203634913
+UZB,Uzbekistan,False,D_excluded,digital_finance_business_informatics,0.0,econ_legal,0.2619966017693766
+GUY,Guyana,True,B_strategic_with_subsidy,energy_logistics,48.56298070361997,energy_logistics,1.0
+DJI,Djibouti,True,C_watchlist,energy_logistics,44.75150391396487,energy_logistics,0.9772423282744375
+VNM,Viet Nam,True,neutral_in_preparation,digital_finance_business_informatics,80.38224626694874,energy_logistics,0.9239125909653574
+ARE,United Arab Emirates,True,B_strategic_with_subsidy,energy_logistics,63.506106745664795,energy_logistics,0.8424417631453338
+SYC,Seychelles,True,C_watchlist,energy_logistics,43.17561958370638,energy_logistics,0.8171208889971452
+ARM,Armenia,True,B_strategic_with_subsidy,energy_logistics,53.626395578505836,energy_logistics,0.7771229622627194
+KGZ,Kyrgyz Republic,True,B_strategic_with_subsidy,energy_logistics,53.505499708726475,energy_logistics,0.7609609312552563
+KHM,Cambodia,True,C_watchlist,energy_logistics,51.351541779926926,energy_logistics,0.7546311853527297
+MUS,Mauritius,True,B_strategic_with_subsidy,economic_legal,51.50101467494254,energy_logistics,0.7149951639108585
+MNG,Mongolia,True,B_strategic_with_subsidy,energy_logistics,55.37927627117115,energy_logistics,0.696606968154148
+MDV,Maldives,True,B_strategic_with_subsidy,digital_finance_business_informatics,48.372777246174806,energy_logistics,0.6936857465485622
+MYS,Malaysia,True,B_strategic_with_subsidy,digital_finance_business_informatics,64.94181309762479,energy_logistics,0.6916126677379933
+GEO,Georgia,True,B_strategic_with_subsidy,digital_finance_business_informatics,58.64935681598443,energy_logistics,0.666346550134766
+BHR,Bahrain,True,B_strategic_with_subsidy,digital_finance_business_informatics,52.65419429932447,energy_logistics,0.6587740030805909
+NRU,Nauru,True,C_watchlist,energy_logistics,38.27228355763461,energy_logistics,0.6353728071526132
+CPV,Cabo Verde,True,B_strategic_with_subsidy,digital_finance_business_informatics,46.97976426227924,energy_logistics,0.6282859359397062
+BRN,Brunei Darussalam,True,B_strategic_with_subsidy,digital_finance_business_informatics,48.06562679118636,energy_logistics,0.625447222080628
+BLR,Belarus,True,B_strategic_with_subsidy,digital_finance_business_informatics,51.29352516091667,energy_logistics,0.6209044966145962
+SOM,"Somalia, Fed. Rep.",True,C_watchlist,energy_logistics,34.668864681984545,energy_logistics,0.6192554178164175
+PNG,Papua New Guinea,True,C_watchlist,energy_logistics,38.01992753087212,energy_logistics,0.6081648691687889
+LSO,Lesotho,True,C_watchlist,energy_logistics,39.05631361458721,energy_logistics,0.6063207637318133
+COD,"Congo, Dem. Rep.",True,C_watchlist,energy_logistics,38.71033337278833,energy_logistics,0.5937323243882584
+KIR,Kiribati,True,C_watchlist,digital_finance_business_informatics,39.482289945583105,energy_logistics,0.5825182865139504
+MRT,Mauritania,True,C_watchlist,energy_logistics,44.007475644531205,energy_logistics,0.5746897121389226
+THA,Thailand,True,B_strategic_with_subsidy,digital_finance_business_informatics,67.02326061545864,energy_logistics,0.5735761016348528
+ATG,Antigua and Barbuda,True,C_watchlist,digital_finance_business_informatics,38.677065581463324,energy_logistics,0.5493747146748201
+GIN,Guinea,True,C_watchlist,energy_logistics,41.799254459506,energy_logistics,0.5478428518442235
+SRB,Serbia,True,B_strategic_with_subsidy,digital_finance_business_informatics,53.34383515270294,energy_logistics,0.5392346602485153
+RWA,Rwanda,True,C_watchlist,energy_logistics,45.102419272730444,energy_logistics,0.5353321441335558
+MHL,Marshall Islands,True,C_watchlist,diplomatic_analytic,32.47935637333317,energy_logistics,0.5211810318510297
+NAM,Namibia,True,C_watchlist,energy_logistics,49.236258565932964,energy_logistics,0.5202840500850217
+TJK,Tajikistan,True,C_watchlist,energy_logistics,44.825614594946614,energy_logistics,0.5184393140454093
+LBY,Libya,True,C_watchlist,energy_logistics,44.04255376733484,energy_logistics,0.5136103537930736
+BLZ,Belize,True,C_watchlist,digital_finance_business_informatics,41.46611828128851,energy_logistics,0.5083873303195743
+CHI,Channel Islands,True,B_strategic_with_subsidy,digital_finance_business_informatics,47.06173809381484,energy_logistics,0.5036402638077598
+SLB,Solomon Islands,True,C_watchlist,energy_logistics,36.85282157893492,energy_logistics,0.49482439000609424
+TUV,Tuvalu,True,C_watchlist,energy_logistics,34.2399182372718,energy_logistics,0.48284259956614506
+SWZ,Eswatini,True,C_watchlist,energy_logistics,38.32919054130817,energy_logistics,0.4786143648796093
+NIC,Nicaragua,True,C_watchlist,energy_logistics,44.417510979559,energy_logistics,0.47128552242298427
+FJI,Fiji,True,C_watchlist,diplomatic_analytic,49.426088512058776,energy_logistics,0.4683214370019999
+SEN,Senegal,True,C_watchlist,energy_logistics,47.20747192424508,energy_logistics,0.4639885327215
+TGO,Togo,True,C_watchlist,energy_logistics,41.16434377996585,energy_logistics,0.4595796763462785
+NER,Niger,True,C_watchlist,energy_logistics,37.417087250896316,energy_logistics,0.45720374597085744
+PRK,"Korea, Dem. People's Rep.",True,C_watchlist,energy_logistics,40.249158239424965,energy_logistics,0.45629454297157035
+MAR,Morocco,True,C_watchlist,digital_finance_business_informatics,54.71552027982817,energy_logistics,0.4557679780512534
+BTN,Bhutan,True,C_watchlist,digital_finance_business_informatics,42.60060879523681,energy_logistics,0.4527320623442408
+WSM,Samoa,True,C_watchlist,diplomatic_analytic,39.92578551007817,energy_logistics,0.44932214027820594
+GHA,Ghana,True,C_watchlist,energy_logistics,49.46182316886063,energy_logistics,0.44922977925530155
+ERI,Eritrea,True,C_watchlist,energy_logistics,31.123532586026492,energy_logistics,0.4471057226190541
+OMN,Oman,True,C_watchlist,digital_finance_business_informatics,52.80355883032395,energy_logistics,0.4469019876176071
+PLW,Palau,True,C_watchlist,diplomatic_analytic,38.38639633987301,energy_logistics,0.4413675085236062
+HND,Honduras,True,C_watchlist,digital_finance_business_informatics,44.847385513116016,energy_logistics,0.4407582672875214
+PHL,Philippines,True,A_open_priority,digital_finance_business_informatics,69.0313710650312,energy_logistics,0.43854755690542324
+GAB,Gabon,True,C_watchlist,energy_logistics,42.790002606972784,energy_logistics,0.437207664600837
+AZE,Azerbaijan,True,C_watchlist,digital_finance_business_informatics,50.23385427133902,energy_logistics,0.4311676909889055
+BIH,Bosnia and Herzegovina,True,C_watchlist,digital_finance_business_informatics,46.839543817661145,energy_logistics,0.4303104485381194
+JOR,Jordan,True,C_watchlist,digital_finance_business_informatics,53.46718285438573,energy_logistics,0.42623073360426667
+QAT,Qatar,True,B_strategic_with_subsidy,digital_finance_business_informatics,47.50999221070786,energy_logistics,0.4224928958881947
+BEN,Benin,True,C_watchlist,energy_logistics,43.6556746787181,energy_logistics,0.41925308171351405
+PRY,Paraguay,True,C_watchlist,digital_finance_business_informatics,50.26966076855217,energy_logistics,0.416310027032857
+TUN,Tunisia,True,C_watchlist,digital_finance_business_informatics,50.026399199788486,energy_logistics,0.41267473720334036
+VCT,St. Vincent and the Grenadines,True,C_watchlist,digital_finance_business_informatics,41.324556695825734,energy_logistics,0.4125397394270705
+GRD,Grenada,True,C_watchlist,diplomatic_analytic,45.2972599093107,energy_logistics,0.4080965809967099
+COG,"Congo, Rep.",True,C_watchlist,energy_logistics,41.00779474375392,energy_logistics,0.40493981996533346
+LCA,St. Lucia,True,C_watchlist,digital_finance_business_informatics,38.45721814427345,energy_logistics,0.40486828368925265
+LAO,Lao PDR,True,C_watchlist,digital_finance_business_informatics,43.12642122866685,energy_logistics,0.4041064280893548
+ETH,Ethiopia,True,C_watchlist,energy_logistics,39.60032028440882,energy_logistics,0.4
+CRI,Costa Rica,True,B_strategic_with_subsidy,digital_finance_business_informatics,54.05105591864087,energy_logistics,0.3980152443163042
+CIV,Côte d'Ivoire,True,C_watchlist,energy_logistics,46.72998380859494,energy_logistics,0.39614073739480476
+MOZ,Mozambique,True,C_watchlist,energy_logistics,36.42827000085332,energy_logistics,0.39515905286078024
+IND,India,True,A_open_priority,digital_finance_business_informatics,71.20497466817474,energy_logistics,0.3917075647712461
+BFA,Burkina Faso,True,C_watchlist,energy_logistics,36.89925798862305,energy_logistics,0.377254535374299
+PAN,Panama,True,C_watchlist,digital_finance_business_informatics,51.29520341880863,energy_logistics,0.3753198446242133
+SLV,El Salvador,True,C_watchlist,digital_finance_business_informatics,47.60189895242998,energy_logistics,0.37259614300625044
+CUB,Cuba,True,C_watchlist,digital_finance_business_informatics,49.53467590314424,energy_logistics,0.36456883191617767
+UGA,Uganda,True,C_watchlist,energy_logistics,38.693290404779965,energy_logistics,0.36409107948411684
+TON,Tonga,True,C_watchlist,diplomatic_analytic,35.88498708341969,energy_logistics,0.36138832055756864
+SUR,Suriname,True,C_watchlist,digital_finance_business_informatics,36.37455052046867,energy_logistics,0.3575007604193313
+DOM,Dominican Republic,True,C_watchlist,digital_finance_business_informatics,56.35290616731421,energy_logistics,0.3500910579373364
+TKM,Turkmenistan,True,C_watchlist,energy_logistics,39.889619223961944,energy_logistics,0.3465240551683529
+BDI,Burundi,True,C_watchlist,energy_logistics,31.917397798870084,energy_logistics,0.34624409529428724
+MLI,Mali,True,C_watchlist,energy_logistics,35.78657558885152,energy_logistics,0.34445747608491073
+TTO,Trinidad and Tobago,True,C_watchlist,digital_finance_business_informatics,43.723726332612,energy_logistics,0.34251045171680927
+LBR,Liberia,True,C_watchlist,energy_logistics,33.08588126049006,energy_logistics,0.3421658543164111
+BRB,Barbados,True,C_watchlist,digital_finance_business_informatics,39.78110075570262,energy_logistics,0.3412950860881866
+ZMB,Zambia,True,C_watchlist,energy_logistics,39.862922778194324,energy_logistics,0.3410118637792473
+GMB,"Gambia, The",True,C_watchlist,digital_finance_business_informatics,38.74328416687975,energy_logistics,0.33945875522676944
+TZA,Tanzania,True,C_watchlist,energy_logistics,41.531468415322806,energy_logistics,0.3357623275747815
+MDG,Madagascar,True,C_watchlist,energy_logistics,35.03199427120714,energy_logistics,0.32860307480579243
+AGO,Angola,True,C_watchlist,energy_logistics,43.16055283663719,energy_logistics,0.32252239789010634
+DMA,Dominica,True,C_watchlist,digital_finance_business_informatics,33.897585834780976,energy_logistics,0.32192195841678883
+IDN,Indonesia,True,A_open_priority,digital_finance_business_informatics,71.37852896112831,energy_logistics,0.3175356845803043
+LKA,Sri Lanka,True,C_watchlist,digital_finance_business_informatics,46.64124794581401,energy_logistics,0.3158753644492566
+VEN,"Venezuela, RB",True,C_watchlist,digital_finance_business_informatics,48.92530160508401,energy_logistics,0.30144616939070384
+TCD,Chad,True,C_watchlist,energy_logistics,31.01305221161236,energy_logistics,0.3007587466308307
+LBN,Lebanon,True,C_watchlist,digital_finance_business_informatics,42.22320638118972,energy_logistics,0.2973703769055626
+KEN,Kenya,True,C_watchlist,digital_finance_business_informatics,43.38365528520892,energy_logistics,0.2944185069210008
+CHN,China,True,A_open_priority,digital_finance_business_informatics,76.21954369266368,energy_logistics,0.29412906788994053
+CHL,Chile,True,C_watchlist,diplomatic_analytic,61.65425234476375,energy_logistics,0.29316320731001316
+IRN,"Iran, Islamic Rep.",True,C_watchlist,digital_finance_business_informatics,53.971747168417394,energy_logistics,0.29297868092947343
+AFG,Afghanistan,True,C_watchlist,energy_logistics,30.616816374833117,energy_logistics,0.29070887792989225
+TUR,Türkiye,True,A_open_priority,digital_finance_business_informatics,75.69950238081866,energy_logistics,0.28776650511126883
+MEX,Mexico,True,A_open_priority,digital_finance_business_informatics,70.8022227881451,energy_logistics,0.2802346120389324
+SLE,Sierra Leone,True,C_watchlist,energy_logistics,31.177824593197016,energy_logistics,0.27636109595613356
+MDA,Moldova,True,C_watchlist,diplomatic_analytic,47.6234291835142,energy_logistics,0.27555149168294074
+PER,Peru,True,C_watchlist,digital_finance_business_informatics,54.806961566652056,energy_logistics,0.27448575184626595
+GTM,Guatemala,True,C_watchlist,digital_finance_business_informatics,47.54517662452329,energy_logistics,0.2740208301768167
+URY,Uruguay,True,C_watchlist,digital_finance_business_informatics,51.95960939558758,energy_logistics,0.2695273041900949
+MMR,Myanmar,True,C_watchlist,energy_logistics,34.226587140850995,energy_logistics,0.26522352321087705
+GNB,Guinea-Bissau,True,D_not_recommended,energy_logistics,26.73577502222319,energy_logistics,0.2629347619848883
+BGD,Bangladesh,True,C_watchlist,digital_finance_business_informatics,47.79421397352352,energy_logistics,0.25288111865970314
+COM,Comoros,True,C_watchlist,digital_finance_business_informatics,30.97527591253155,energy_logistics,0.24825037209512657
+DZA,Algeria,True,C_watchlist,digital_finance_business_informatics,52.559343549696514,energy_logistics,0.2479977307858511
+NPL,Nepal,True,C_watchlist,digital_finance_business_informatics,42.945670931738036,energy_logistics,0.24798165614760434
+NGA,Nigeria,True,C_watchlist,digital_finance_business_informatics,45.190703553574984,energy_logistics,0.2456241498985841
+KNA,St. Kitts and Nevis,True,C_watchlist,diplomatic_analytic,39.99052269140107,energy_logistics,0.24341835932177627
+KWT,Kuwait,True,C_watchlist,digital_finance_business_informatics,47.91068954833261,energy_logistics,0.23749901536411425
+TLS,Timor-Leste,True,C_watchlist,diplomatic_analytic,37.31053747414228,energy_logistics,0.23503028450358673
+SAU,Saudi Arabia,True,A_open_priority,digital_finance_business_informatics,73.39919974824426,energy_logistics,0.22804039822861844
+CMR,Cameroon,True,C_watchlist,digital_finance_business_informatics,40.351353809971485,energy_logistics,0.22137452480375513
+BRA,Brazil,True,A_open_priority,digital_finance_business_informatics,73.02874452478801,energy_logistics,0.21754419538105058
+VUT,Vanuatu,True,D_not_recommended,economic_legal,29.43103665089214,energy_logistics,0.21537321083734529
+STP,São Tomé and Principe,True,C_watchlist,digital_finance_business_informatics,34.88207071631184,energy_logistics,0.21037922855858138
+JAM,Jamaica,True,C_watchlist,digital_finance_business_informatics,43.302374269778326,energy_logistics,0.20520348993966409
+GNQ,Equatorial Guinea,True,C_watchlist,digital_finance_business_informatics,36.07833168481788,energy_logistics,0.2018380563586742
+PAK,Pakistan,True,C_watchlist,digital_finance_business_informatics,43.72103026464743,energy_logistics,0.1999168579090176
+ZAF,South Africa,True,C_watchlist,digital_finance_business_informatics,51.60149216781926,energy_logistics,0.1893637110763454
+EGY,"Egypt, Arab Rep.",True,C_watchlist,digital_finance_business_informatics,56.618254902616336,energy_logistics,0.18723780350642238
+YEM,"Yemen, Rep.",True,C_watchlist,energy_logistics,31.17985456108278,energy_logistics,0.1774003337625245
+ISR,Israel,True,C_watchlist,economic_legal,51.57071280677754,energy_logistics,0.1764331690984609
+CAF,Central African Republic,True,D_not_recommended,energy_logistics,22.07106913452306,energy_logistics,0.1733960420214927
+MWI,Malawi,True,D_not_recommended,energy_logistics,29.454257644979226,energy_logistics,0.1655985774836677
+ZWE,Zimbabwe,True,C_watchlist,digital_finance_business_informatics,35.303555018376166,energy_logistics,0.16498943189177714
+COL,Colombia,True,C_watchlist,digital_finance_business_informatics,55.307013275857685,energy_logistics,0.1410460195668154
+BWA,Botswana,True,C_watchlist,economic_legal,46.71814811738386,energy_logistics,0.13983267922808498
+IRQ,Iraq,True,C_watchlist,digital_finance_business_informatics,40.726738325153214,energy_logistics,0.13828205500244625
+SSD,South Sudan,True,D_not_recommended,economic_legal,25.452158339557958,energy_logistics,0.11811335516107845
+SYR,Syrian Arab Republic,True,C_watchlist,digital_finance_business_informatics,32.08816227829102,energy_logistics,0.09646899378243709
+ECU,Ecuador,True,C_watchlist,digital_finance_business_informatics,46.96174998052698,energy_logistics,0.08546653298934401
+BOL,Bolivia,True,C_watchlist,digital_finance_business_informatics,42.90567282029563,energy_logistics,0.057207950725506926
+ARG,Argentina,True,A_open_priority,diplomatic_analytic,64.40593805490838,energy_logistics,0.0018250894802867572
+SDN,Sudan,True,D_not_recommended,digital_finance_business_informatics,25.23691264207015,energy_logistics,0.0
+HTI,Haiti,True,D_not_recommended,digital_finance_business_informatics,23.236249315141873,energy_logistics,0.0
+MLT,Malta,False,D_excluded,energy_logistics,0.0,energy_logistics,0.9690974179327889
+SGP,Singapore,False,D_excluded,diplomatic_analytic,0.0,energy_logistics,0.8603126158588341
+ABW,Aruba,False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.8584841319737746
+CYP,Cyprus,False,D_excluded,diplomatic_analytic,0.0,energy_logistics,0.8401399727981472
+MAC,"Macao SAR, China",False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.817386960450761
+IRL,Ireland,False,D_excluded,economic_legal,0.0,energy_logistics,0.7796420165058899
+HKG,"Hong Kong SAR, China",False,D_excluded,diplomatic_analytic,0.0,energy_logistics,0.7753806309492856
+CUW,Curaçao,False,D_excluded,energy_logistics,0.0,energy_logistics,0.7580943507846677
+SVK,Slovak Republic,False,D_excluded,economic_legal,0.0,energy_logistics,0.681154780032227
+SMR,San Marino,False,D_excluded,economic_legal,0.0,energy_logistics,0.6805250703835594
+LUX,Luxembourg,False,D_excluded,economic_legal,0.0,energy_logistics,0.6785710696421108
+MCO,Monaco,False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.673683270309053
+MNP,Northern Mariana Islands,False,D_excluded,energy_logistics,0.0,energy_logistics,0.6260687932995492
+SVN,Slovenia,False,D_excluded,diplomatic_analytic,0.0,energy_logistics,0.610976335191111
+LTU,Lithuania,False,D_excluded,economic_legal,0.0,energy_logistics,0.6086285608449984
+VIR,Virgin Islands (US),False,D_excluded,economic_legal,0.0,energy_logistics,0.6032548178053844
+CYM,Cayman Islands,False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.5989329355339262
+DNK,Denmark,False,D_excluded,economic_legal,0.0,energy_logistics,0.5963108049823703
+BEL,Belgium,False,D_excluded,economic_legal,0.0,energy_logistics,0.5939683508898862
+MKD,North Macedonia,False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.5923079564975093
+XKX,Kosovo,False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.575416000518459
+NLD,Netherlands,False,D_excluded,economic_legal,0.0,energy_logistics,0.5744954296085382
+HUN,Hungary,False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.5223517424282899
+EST,Estonia,False,D_excluded,economic_legal,0.0,energy_logistics,0.5107545281451067
+BGR,Bulgaria,False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.5079877385826672
+CHE,Switzerland,False,D_excluded,economic_legal,0.0,energy_logistics,0.5072997266865361
+HRV,Croatia,False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.5070431216044957
+MNE,Montenegro,False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.4968263521927618
+CZE,Czechia,False,D_excluded,economic_legal,0.0,energy_logistics,0.49396899922771675
+ASM,American Samoa,False,D_excluded,economic_legal,0.0,energy_logistics,0.4900127958738659
+AND,Andorra,False,D_excluded,economic_legal,0.0,energy_logistics,0.48816130766854793
+BMU,Bermuda,False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.4879785553338001
+TCA,Turks and Caicos Islands,False,D_excluded,economic_legal,0.0,energy_logistics,0.4835777054246636
+UZB,Uzbekistan,False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.4548194643860614
+GIB,Gibraltar,False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.453325286814943
+POL,Poland,False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.45322442241165783
+MAF,St. Martin (French part),False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.4503441128739003
+LVA,Latvia,False,D_excluded,diplomatic_analytic,0.0,energy_logistics,0.4393131738379214
+PRI,Puerto Rico (US),False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.43749444075816446
+GUM,Guam,False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.43523032482189794
+ALB,Albania,False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.41736691214159877
+BHS,"Bahamas, The",False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.3864411041478442
+VGB,British Virgin Islands,False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.37835588234319545
+FRO,Faroe Islands,False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.375777763471274
+SWE,Sweden,False,D_excluded,diplomatic_analytic,0.0,energy_logistics,0.3752207941904976
+KAZ,Kazakhstan,False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.3732181272751149
+PRT,Portugal,False,D_excluded,diplomatic_analytic,0.0,energy_logistics,0.37143945069345086
+GRC,Greece,False,D_excluded,diplomatic_analytic,0.0,energy_logistics,0.3693578740956288
+SXM,Sint Maarten (Dutch part),False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.3646470045921923
+UKR,Ukraine,False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.3596502389497755
+ESP,Spain,False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.35355711724851935
+KOR,"Korea, Rep.",False,D_excluded,diplomatic_analytic,0.0,energy_logistics,0.3455385757298799
+FSM,"Micronesia, Fed. Sts.",False,D_excluded,diplomatic_analytic,0.0,energy_logistics,0.34149561316524196
+NOR,Norway,False,D_excluded,diplomatic_analytic,0.0,energy_logistics,0.33693824424957874
+GRL,Greenland,False,D_excluded,economic_legal,0.0,energy_logistics,0.32256909305670284
+AUT,Austria,False,D_excluded,diplomatic_analytic,0.0,energy_logistics,0.3200128503707301
+LIE,Liechtenstein,False,D_excluded,economic_legal,0.0,energy_logistics,0.2838727508958357
+RUS,Russian Federation,False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.27461178809871645
+IMN,Isle of Man,False,D_excluded,diplomatic_analytic,0.0,energy_logistics,0.273683270309053
+FIN,Finland,False,D_excluded,diplomatic_analytic,0.0,energy_logistics,0.2693152103382246
+ROU,Romania,False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.2674371063398434
+CAN,Canada,False,D_excluded,economic_legal,0.0,energy_logistics,0.2490669086615618
+FRA,France,False,D_excluded,economic_legal,0.0,energy_logistics,0.2442030920600114
+PYF,French Polynesia,False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.2270808233713737
+GBR,United Kingdom,False,D_excluded,diplomatic_analytic,0.0,energy_logistics,0.22071306403123447
+ISL,Iceland,False,D_excluded,diplomatic_analytic,0.0,energy_logistics,0.21656747378091074
+DEU,Germany,False,D_excluded,economic_legal,0.0,energy_logistics,0.2110924888269242
+ITA,Italy,False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.20108540262314437
+USA,United States,False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.18837112824521518
+NZL,New Zealand,False,D_excluded,diplomatic_analytic,0.0,energy_logistics,0.18260373348941417
+PSE,West Bank and Gaza,False,D_excluded,digital_finance_business_informatics,0.0,energy_logistics,0.17975411874896494
+AUS,Australia,False,D_excluded,diplomatic_analytic,0.0,energy_logistics,0.17047642237680333
+JPN,Japan,False,D_excluded,economic_legal,0.0,energy_logistics,0.11034758250869593
+NCL,New Caledonia,False,D_excluded,diplomatic_analytic,0.0,energy_logistics,0.019634149180071576

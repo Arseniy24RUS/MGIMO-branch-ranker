@@ -1,0 +1,75 @@
+﻿iso3,country,region,income_group,exclusion_reason,is_unfriendly,is_domestic_russia,is_non_sovereign_or_special,has_existing_mgimo_branch
+MAF,St. Martin (French part),Latin America & Caribbean,High income,non_sovereign_or_special_hard_exclusion,False,False,True,False
+ALB,Albania,Europe & Central Asia,Upper middle income,unfriendly_country_hard_exclusion,True,False,False,False
+ASM,American Samoa,East Asia & Pacific,High income,non_sovereign_or_special_hard_exclusion,False,False,True,False
+AND,Andorra,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+ABW,Aruba,Latin America & Caribbean,High income,non_sovereign_or_special_hard_exclusion,False,False,True,False
+AUS,Australia,East Asia & Pacific,High income,unfriendly_country_hard_exclusion,True,False,False,False
+AUT,Austria,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+BHS,"Bahamas, The",Latin America & Caribbean,High income,unfriendly_country_hard_exclusion,True,False,False,False
+BEL,Belgium,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+BMU,Bermuda,North America,High income,unfriendly_country_hard_exclusion;non_sovereign_or_special_hard_exclusion,True,False,True,False
+VGB,British Virgin Islands,Latin America & Caribbean,High income,unfriendly_country_hard_exclusion;non_sovereign_or_special_hard_exclusion,True,False,True,False
+BGR,Bulgaria,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+CAN,Canada,North America,High income,unfriendly_country_hard_exclusion,True,False,False,False
+CYM,Cayman Islands,Latin America & Caribbean,High income,unfriendly_country_hard_exclusion;non_sovereign_or_special_hard_exclusion,True,False,True,False
+HRV,Croatia,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+CUW,Curaçao,Latin America & Caribbean,High income,non_sovereign_or_special_hard_exclusion,False,False,True,False
+CYP,Cyprus,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+CZE,Czechia,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+DNK,Denmark,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+EST,Estonia,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+FRO,Faroe Islands,Europe & Central Asia,High income,non_sovereign_or_special_hard_exclusion,False,False,True,False
+FIN,Finland,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+FRA,France,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+PYF,French Polynesia,East Asia & Pacific,High income,non_sovereign_or_special_hard_exclusion,False,False,True,False
+DEU,Germany,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+GIB,Gibraltar,Europe & Central Asia,High income,unfriendly_country_hard_exclusion;non_sovereign_or_special_hard_exclusion,True,False,True,False
+GRC,Greece,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+GRL,Greenland,Europe & Central Asia,High income,non_sovereign_or_special_hard_exclusion,False,False,True,False
+GUM,Guam,East Asia & Pacific,High income,non_sovereign_or_special_hard_exclusion,False,False,True,False
+HKG,"Hong Kong SAR, China",East Asia & Pacific,High income,non_sovereign_or_special_hard_exclusion,False,False,True,False
+HUN,Hungary,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+ISL,Iceland,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+IRL,Ireland,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+IMN,Isle of Man,Europe & Central Asia,High income,unfriendly_country_hard_exclusion;non_sovereign_or_special_hard_exclusion,True,False,True,False
+ITA,Italy,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+JPN,Japan,East Asia & Pacific,High income,unfriendly_country_hard_exclusion,True,False,False,False
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,existing_mgimo_branch_hard_exclusion,False,False,False,True
+KOR,"Korea, Rep.",East Asia & Pacific,High income,unfriendly_country_hard_exclusion,True,False,False,False
+XKX,Kosovo,Europe & Central Asia,Upper middle income,non_sovereign_or_special_hard_exclusion,False,False,True,False
+LVA,Latvia,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+LIE,Liechtenstein,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+LTU,Lithuania,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+LUX,Luxembourg,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+MAC,"Macao SAR, China",East Asia & Pacific,High income,non_sovereign_or_special_hard_exclusion,False,False,True,False
+MLT,Malta,Middle East & North Africa,High income,unfriendly_country_hard_exclusion,True,False,False,False
+FSM,"Micronesia, Fed. Sts.",East Asia & Pacific,Lower middle income,unfriendly_country_hard_exclusion,True,False,False,False
+MCO,Monaco,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+MNE,Montenegro,Europe & Central Asia,Upper middle income,unfriendly_country_hard_exclusion,True,False,False,False
+NLD,Netherlands,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+NCL,New Caledonia,East Asia & Pacific,High income,non_sovereign_or_special_hard_exclusion,False,False,True,False
+NZL,New Zealand,East Asia & Pacific,High income,unfriendly_country_hard_exclusion,True,False,False,False
+MKD,North Macedonia,Europe & Central Asia,Upper middle income,unfriendly_country_hard_exclusion,True,False,False,False
+MNP,Northern Mariana Islands,East Asia & Pacific,High income,non_sovereign_or_special_hard_exclusion,False,False,True,False
+NOR,Norway,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+POL,Poland,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+PRT,Portugal,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+PRI,Puerto Rico (US),Latin America & Caribbean,High income,non_sovereign_or_special_hard_exclusion,False,False,True,False
+ROU,Romania,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+RUS,Russian Federation,Europe & Central Asia,High income,domestic_russia_hard_exclusion,False,True,False,False
+SMR,San Marino,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+SGP,Singapore,East Asia & Pacific,High income,unfriendly_country_hard_exclusion,True,False,False,False
+SXM,Sint Maarten (Dutch part),Latin America & Caribbean,High income,non_sovereign_or_special_hard_exclusion,False,False,True,False
+SVK,Slovak Republic,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+SVN,Slovenia,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+ESP,Spain,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+SWE,Sweden,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+CHE,Switzerland,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+TCA,Turks and Caicos Islands,Latin America & Caribbean,High income,unfriendly_country_hard_exclusion;non_sovereign_or_special_hard_exclusion,True,False,True,False
+UKR,Ukraine,Europe & Central Asia,Upper middle income,unfriendly_country_hard_exclusion,True,False,False,False
+GBR,United Kingdom,Europe & Central Asia,High income,unfriendly_country_hard_exclusion,True,False,False,False
+USA,United States,North America,High income,unfriendly_country_hard_exclusion,True,False,False,False
+UZB,Uzbekistan,Europe & Central Asia,Lower middle income,existing_mgimo_branch_hard_exclusion,False,False,False,True
+VIR,Virgin Islands (US),Latin America & Caribbean,High income,non_sovereign_or_special_hard_exclusion,False,False,True,False
+PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,non_sovereign_or_special_hard_exclusion,False,False,True,False

@@ -1,0 +1,5 @@
+﻿iso3,country,city,presence_type,exclude_from_new_branch_ranking,pipeline_status,pipeline_stage,planned_program_profile,notes,source_url,latitude,longitude,coordinate_source
+UZB,Uzbekistan,Tashkent,branch_or_campus,1,0,operational,,MGIMO Tashkent foreign branch/campus,https://mgimo.ru/about/,41.2995,69.2401,city coordinate reference for Tashkent
+KAZ,Kazakhstan,Astana,branch_or_campus,1,0,operational,,MGIMO branch/campus in Kazakhstan Astana,https://mgimo.ru/about/,51.1694,71.4491,city coordinate reference for Astana
+CHE,Switzerland,Geneva,educational_platform,0,0,platform,,MGIMO educational platform; not equal to full branch but country is unfriendly under Order 430-r,https://mgimo.ru/about/,46.2044,6.1432,city coordinate reference for Geneva
+VNM,Viet Nam,Hanoi,branch_pipeline,0,1,planned_first_program,digital_finance_business_informatics,MGIMO publicly reported plans for a Vietnam branch; first BA program in Business Informatics focused on digital finance and fintech; treat as pipeline until legal opening,https://mgimo.ru/about/news/main/vietnam-russia-conference-10-03-26/,21.0278,105.8342,city coordinate reference for Hanoi

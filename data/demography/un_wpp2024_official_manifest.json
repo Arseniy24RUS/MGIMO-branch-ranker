@@ -1,0 +1,56 @@
+{
+  "source_key": "un_wpp2024_population_by_single_age_sex",
+  "source_name": "United Nations World Population Prospects 2024",
+  "variant": "Medium",
+  "source_url": "https://population.un.org/wpp/",
+  "generated_at": "2026-06-08T23:10:23+03:00",
+  "payload_blocks": [
+    "demographySeries",
+    "ageSexPyramid"
+  ],
+  "files": {
+    "historical": {
+      "role": "official_estimate",
+      "source_path": "C:/Codex projects/gdam_research/data/raw/wpp2024/WPP2024_PopulationBySingleAgeSex_Medium_1950-2023.csv.gz",
+      "local_path": "data/demography/raw/wpp2024/WPP2024_PopulationBySingleAgeSex_Medium_1950-2023.csv.gz",
+      "bytes": 62082217,
+      "sha256": "f84c75789ccbd385122ad19bac70026d6306878442afbaa24e8e50a23b4bee2f",
+      "covered_years": "1950-2023",
+      "published_payload_years": "2000-2023"
+    },
+    "projection": {
+      "role": "official_projection",
+      "source_path": "C:/Codex projects/gdam_research/data/raw/wpp2024/WPP2024_PopulationBySingleAgeSex_Medium_2024-2100.csv.gz",
+      "local_path": "data/demography/raw/wpp2024/WPP2024_PopulationBySingleAgeSex_Medium_2024-2100.csv.gz",
+      "bytes": 66954143,
+      "sha256": "31804a296b663716236cd26c46415271cc9386fb3b2be56aff6467ad32283dc8",
+      "covered_years": "2024-2100",
+      "published_payload_years": "2024-2050"
+    }
+  },
+  "series_years": {
+    "actual": "2000-2023",
+    "forecast": "2024-2050"
+  },
+  "pyramid_years": {
+    "actual": [
+      2023
+    ],
+    "forecast": [
+      2024,
+      2026,
+      2035,
+      2050
+    ]
+  },
+  "current_reference": {
+    "year": 2024,
+    "observation_status": "official_projection"
+  },
+  "observation_statuses": [
+    "official_estimate",
+    "official_projection"
+  ],
+  "country_count": 217,
+  "source_policy": "SAI and branch scoring use these WPP rows only when source, year, raw value, normalization and weight lineage is present in the public payload."
+}

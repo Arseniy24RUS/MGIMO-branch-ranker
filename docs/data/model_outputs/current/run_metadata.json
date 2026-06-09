@@ -1,0 +1,32 @@
+{
+  "mode": "snapshot",
+  "note": "Offline global panel inherited from mgimo_branch_platform_project; v0.3 recomputes indices, eligibility and finance on top of it.",
+  "countries_n": 217,
+  "source_panel": "data/platform_snapshot/country_master_panel.csv",
+  "raw_source_files": {
+    "un_wpp2024_age_sex_historical": "C:\\Codex projects\\gdam_research\\data\\raw\\wpp2024\\WPP2024_PopulationBySingleAgeSex_Medium_1950-2023.csv.gz",
+    "un_wpp2024_age_sex_projection": "C:\\Codex projects\\gdam_research\\data\\raw\\wpp2024\\WPP2024_PopulationBySingleAgeSex_Medium_2024-2100.csv.gz"
+  },
+  "un_wpp2024_demographic_countries_n": 217,
+  "un_wpp2024_source_key": "un_wpp2024_population_by_single_age_sex",
+  "unfriendly_iso3_n": 66,
+  "existing_presence_iso3_n": 4,
+  "partner_reference_iso3_n": 3,
+  "non_sovereign_reference_iso3_n": 23,
+  "usd_rub_source": "cbr_xml_daily",
+  "usd_rub": 73.4689,
+  "weights_default": {
+    "I_MARKET": 0.22,
+    "I_PROGRAM": 0.12,
+    "I_RUSCOMP": 0.16,
+    "I_ECO": 0.14,
+    "I_FIN": 0.16,
+    "I_FEAS": 0.14,
+    "I_HRSTRAT": 0.06
+  },
+  "mc_iterations": 1000,
+  "eligible_countries_n": 143,
+  "total_countries_n": 217,
+  "model_version": "0.3.0",
+  "created_at": "2026-06-07T14:16:58"
+}

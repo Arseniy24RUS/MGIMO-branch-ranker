@@ -1,0 +1,236 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Направления развития международного сотрудничества МГИМО МИД России</title>
+  <meta name="description" content="Панель направлений развития международного сотрудничества МГИМО МИД России." />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='8' fill='%2304224d'/%3E%3Cpath d='M10 42h44v6H10zM16 36h8V22h-8zm12 0h8V16h-8zm12 0h8V26h-8z' fill='%23e0aa24'/%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="assets/vendor/leaflet/leaflet.css" />
+  <link rel="stylesheet" href="assets/style.css?v=20260608-row-compare1" />
+</head>
+<body>
+  <a class="skip-link" href="#dashboard" data-i18n="skipToMain">Skip to dashboard</a>
+
+  <header class="app-header">
+    <div class="executive-bar">
+      <div class="institution-lockup" data-i18n-aria-label="ariaInstitutions" aria-label="Institutions">
+        <a class="logo-link" href="https://mgimo.ru/" target="_blank" rel="noopener noreferrer" aria-label="MGIMO">
+          <img class="brand-logo mgimo-logo" src="assets/mgimo-home.png" alt="MGIMO" />
+        </a>
+        <span class="brand-divider" aria-hidden="true"></span>
+        <a class="logo-link" href="https://www.fnisc.ru/" target="_blank" rel="noopener noreferrer" aria-label="FNISC">
+          <img class="brand-logo fnisc-logo" src="assets/fnisc.png" alt="FNISC" />
+        </a>
+      </div>
+      <div class="title-block">
+        <h1 data-i18n="title">Направления развития международного сотрудничества МГИМО МИД России</h1>
+      </div>
+      <div class="header-controls">
+        <nav class="app-nav" data-i18n-aria-label="ariaNav" aria-label="Navigation">
+          <a class="active" href="index.html" aria-current="page" data-i18n="navBranches">Branches</a>
+          <a href="students.html" data-i18n="navStudents">Students</a>
+        </nav>
+        <div class="segmented compact" role="group" data-i18n-aria-label="ariaLanguage" aria-label="Language">
+          <button id="langRu" class="segment active" type="button">RU</button>
+          <button id="langEn" class="segment" type="button">EN</button>
+        </div>
+      </div>
+    </div>
+
+    <section id="weightsPanel" class="weights-panel" data-i18n-aria-label="ariaWeightsPanel" aria-label="Weights">
+      <div class="weights-overview-row">
+        <div class="weight-selector-group">
+          <h2 data-i18n="weightsTitle">Final index weights</h2>
+          <div id="weightLinePanel" class="weight-mode-panel">
+            <div id="weightLineTrack" class="weight-line-track" data-i18n-aria-label="ariaWeightLine" aria-label="100 percent weight line"></div>
+          </div>
+          <div class="weights-toolbar">
+            <button id="weightModeLine" class="segment active visually-hidden" type="button" data-weight-mode="line" data-i18n="weightModeLine">Line</button>
+            <button id="weightModeSliders" class="primary-action weight-gear-button" type="button" data-weight-mode="sliders" aria-label="Изменить веса" title="Изменить веса">
+              <span aria-hidden="true">⚙️</span>
+              <span class="visually-hidden" data-i18n="weightModeSliders">Sliders</span>
+            </button>
+          </div>
+        </div>
+        <section class="header-kpis compact-kpis" data-i18n-aria-label="ariaDashboardSummary" aria-label="Summary">
+          <div><span data-i18n="headerTotalCountries">Countries</span><strong id="headerTotalCountries">-</strong></div>
+          <div><span data-i18n="headerEligibleCountries">Eligible</span><strong id="headerEligibleCountries">-</strong></div>
+          <div><span data-i18n="headerDirectShortlist">Opening priority</span><strong id="headerDirectShortlist">-</strong></div>
+          <div><span data-i18n="headerPartnerFormats">Partner model</span><strong id="headerPartnerFormats">-</strong></div>
+          <div><span data-i18n="headerPipelineCountries">In preparation</span><strong id="headerPipelineCountries">-</strong></div>
+        </section>
+      </div>
+      <div id="weightEditorBackdrop" class="modal-backdrop" hidden></div>
+      <section id="weightEditorPanel" class="weight-editor-panel" aria-label="Редактор весов" hidden>
+        <div class="weight-editor-head">
+          <h3 data-i18n="weightEditorTitle">Редактор весов</h3>
+          <button id="closeWeights" class="icon-button" type="button" aria-label="Close">×</button>
+        </div>
+        <p class="weights-warning" data-i18n="weightsChangeWarning">При изменении весов пересчитываются баллы и места; категории рекомендаций показаны по базовой классификации</p>
+        <div id="weightSliderPanel" class="weight-mode-panel"></div>
+        <div id="weightInputs" class="weight-inputs"></div>
+        <div class="weight-editor-actions">
+          <button id="resetWeights" class="text-button" type="button" data-i18n="resetWeights">Reset weights</button>
+          <button id="copyWeightsLink" class="text-button" type="button" data-i18n="copyWeightsLink">Copy weights link</button>
+          <span id="copyStatus" class="weights-notice" aria-live="polite"></span>
+        </div>
+      </section>
+    </section>
+  </header>
+
+  <main id="dashboard" class="dashboard-grid">
+    <section class="map-panel panel" data-i18n-aria-label="ariaWorldMap" aria-label="World map">
+      <div class="map-title-row">
+        <div>
+          <h2 id="mapHeading" data-i18n="mapTitle">Opportunity index</h2>
+          <div class="scale-legend" data-i18n-aria-label="ariaMapScale" aria-label="Map scale">
+            <span data-i18n="scaleLow">Low</span>
+            <i></i><i></i><i></i><i></i><i></i><i></i><i></i>
+            <span data-i18n="scaleHigh">High</span>
+          </div>
+        </div>
+        <span id="mapLegend" class="metric-note"></span>
+      </div>
+      <div id="map" class="map" role="application" data-i18n-aria-label="ariaInteractiveMap" aria-label="Interactive map"></div>
+    </section>
+
+    <section class="panel shortlist-card" data-i18n-aria-label="ariaCountryRankingPanels" aria-label="Country ranking">
+      <div class="shortlist-head">
+        <h2 data-i18n="shortlistTitle">Priority countries</h2>
+        <div class="shortlist-controls">
+          <label><span data-i18n="rowsShown">Rows</span><input id="topN" type="number" min="10" max="120" step="5" value="30" /></label>
+          <button id="downloadRanking" class="text-button" type="button" data-i18n="downloadRanking">CSV</button>
+        </div>
+      </div>
+      <div class="shortlist-wrap">
+        <table id="rankingTable" class="executive-table" data-visual-id="rankingTable">
+          <thead>
+            <tr>
+              <th data-i18n="rank">Rank</th>
+              <th data-i18n="country">Country</th>
+              <th data-i18n="kpiCompositeShort">Index</th>
+            </tr>
+          </thead>
+          <tbody id="rankingList"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="panel selected-card" id="selectedCard">
+      <div class="selected-top">
+        <div>
+          <p class="panel-kicker" data-i18n="selected">Selected country</p>
+          <div class="country-heading">
+            <span id="selectedFlag" class="country-flag" aria-hidden="true"></span>
+            <h2 id="selectedTitle">-</h2>
+          </div>
+        </div>
+        <div class="score-lockup">
+          <span data-i18n="kpiCompositeShort">Index</span>
+          <strong id="kpiComposite">-</strong>
+          <small id="kpiCompositeRank">-</small>
+        </div>
+      </div>
+      <div id="selectedBadges" class="badges"></div>
+      <p id="decisionSummary" class="decision-summary"></p>
+      <div id="selectedFactorBars" class="selected-factor-bars" data-visual-id="selectedFactorBars"></div>
+      <div id="selectedInsightList" class="selected-insights" aria-live="polite"></div>
+      <div class="profile-kpis" data-i18n-aria-label="ariaCountryIndicators" aria-label="Country indicators">
+        <div><span data-i18n="kpiMarket">Market</span><strong id="kpiMarket">-</strong></div>
+        <div><span data-i18n="kpiFit">MGIMO fit</span><strong id="kpiFit">-</strong></div>
+        <div><span data-i18n="kpiOperations">Operations</span><strong id="kpiOperations">-</strong></div>
+        <div><span data-i18n="kpiFinance">Finance</span><strong id="kpiFinance">-</strong></div>
+      </div>
+      <div class="selected-actions">
+        <button id="downloadCountryJson" class="text-button" type="button" data-i18n="downloadCountry">Country card</button>
+      </div>
+    </section>
+
+    <section class="panel executive-visuals-panel" data-i18n-aria-label="ariaExecutiveVisuals" aria-label="Аналитика для руководства">
+      <div class="pane-header">
+        <h2 data-i18n="executiveVisualsTitle">Аналитика для руководства</h2>
+        <span id="visualTraceNote" class="metric-note"></span>
+      </div>
+      <div class="visual-card-grid">
+        <article class="visual-card">
+          <h3 data-i18n="indexDecompositionTitle">Index decomposition</h3>
+          <div id="indexDecompositionChart" class="chart mini-chart" data-visual-id="indexDecompositionChart"></div>
+        </article>
+        <article class="visual-card">
+          <h3 data-i18n="financeVisualTitle">Financial model</h3>
+          <div id="financeChart" class="chart mini-chart" data-visual-id="financeChart"></div>
+          <div id="financeKpis" class="finance-kpis" data-visual-id="financeKpis"></div>
+        </article>
+        <article class="visual-card population-youth-card">
+          <h3 data-i18n="demographyTrendTitle">Student pool trend</h3>
+          <div id="populationYouthChart" class="chart mini-chart" data-visual-id="populationYouthChart"></div>
+        </article>
+        <article class="visual-card compare-panel" id="comparePanel">
+          <div class="compare-panel-head">
+            <h3 data-i18n="compareModeTitle">Country comparison</h3>
+          </div>
+          <div id="compareGrid" class="compare-grid" data-visual-id="compareGrid"></div>
+        </article>
+        <article class="visual-card">
+          <h3 data-i18n="ageSexPyramidTitle">Age-sex structure</h3>
+          <div id="ageSexPyramidChart" class="chart mini-chart" data-visual-id="ageSexPyramidChart"></div>
+        </article>
+        <article class="visual-card">
+          <h3 data-i18n="programProfileTitle">Program relevance</h3>
+          <div id="programProfileChart" class="chart mini-chart" data-visual-id="programProfileChart"></div>
+        </article>
+        <article class="visual-card">
+          <h3 data-i18n="feasibilityRadarTitle">Feasibility context</h3>
+          <div id="feasibilityRadarChart" class="chart mini-chart" data-visual-id="feasibilityRadarChart"></div>
+        </article>
+      </div>
+    </section>
+
+    <nav class="control-bar branch-control-bar panel" data-i18n-aria-label="ariaDashboardControls" aria-label="Controls">
+      <label class="control-field">
+        <span data-i18n="metric">Map metric</span>
+        <select id="metricSelect"></select>
+      </label>
+      <label class="control-field search-field">
+        <span data-i18n="search">Search</span>
+        <input id="searchInput" type="search" autocomplete="off" />
+      </label>
+      <label class="control-field">
+        <span data-i18n="region">Region</span>
+        <select id="regionSelect"></select>
+      </label>
+      <fieldset class="category-group" data-i18n-aria-label="ariaCategoryFilters" aria-label="Categories">
+        <legend data-i18n="categoryFilter">Categories</legend>
+        <button class="category-chip active" type="button" data-category="all" data-i18n="category.all">All</button>
+        <button class="category-chip" type="button" data-category="eligible" data-i18n="category.eligible">Eligible</button>
+        <button class="category-chip" type="button" data-category="in_preparation" data-i18n="category.in_preparation">In preparation</button>
+        <button class="category-chip" type="button" data-category="presence" data-i18n="category.presence">Presence</button>
+        <button class="category-chip hatch-chip" type="button" data-category="unfriendly" data-i18n="category.unfriendly">Unfriendly</button>
+      </fieldset>
+      <button id="resetBtn" class="reset-button" type="button" data-i18n="reset">Reset</button>
+    </nav>
+
+    <section class="panel factor-panel methodology-workbench" data-i18n-aria-label="ariaCountryFactorDetail" aria-label="Country factors">
+      <div class="pane-header">
+        <h2 data-i18n="countryDetailTitle">Country factors</h2>
+        <span id="countryDetailScore">-</span>
+      </div>
+      <article id="methodologyText" class="methodology"></article>
+      <div id="factorTabs" class="factor-tabs" role="tablist" data-i18n-aria-label="ariaFactorTabs" aria-label="Factor tabs"></div>
+      <div id="activeFactorChart" class="factor-calculation-surface" data-visual-id="activeFactorChart"></div>
+      <div id="factorDetailPanel" class="factor-detail-panel" role="tabpanel"></div>
+    </section>
+
+  </main>
+
+  <footer class="app-footer">
+    <span data-i18n="footerNote">Decision-support tool for country selection.</span>
+    <span id="loadStatus" class="status-pill" data-i18n="statusLoading">Loading data</span>
+  </footer>
+
+  <script src="assets/vendor/leaflet/leaflet.js"></script>
+  <script src="assets/vendor/plotly/plotly.min.js"></script>
+  <script src="assets/app.js?v=20260609-ui-rework1"></script>
+</body>
+</html>

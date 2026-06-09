@@ -1,0 +1,19 @@
+﻿provider,indicator_code,indicator_label,indicator_group,official_url,source_note,raw_file,latest_observed_year_in_run
+UN World Population Prospects 2024,UN_WPP2024.PopulationBySingleAgeSex.Medium,"Population by single age, sex and year",demography,https://population.un.org/wpp/,"Official WPP 2024 bulk files supply total population, 15-24 cohort, student pool inputs and age-sex pyramids.",C:\Codex projects\gdam_research\data\raw\wpp2024,2024.0
+World Bank,NY.GDP.PCAP.PP.KD,"GDP per capita, PPP (constant 2021 international $)",economy,https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.KD,World Development Indicators,NY.GDP.PCAP.PP.KD.xls,2024.0
+World Bank,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),economy,https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG,National accounts / OECD / World Bank staff estimates via World Bank,NY.GDP.MKTP.KD.ZG.xls,2024.0
+World Bank,NE.TRD.GNFS.ZS,Trade (% of GDP),economy,https://data.worldbank.org/indicator/NE.TRD.GNFS.ZS,National accounts / OECD / World Bank staff estimates via World Bank,NE.TRD.GNFS.ZS.xls,2024.0
+World Bank,NV.SRV.TOTL.ZS,"Services, value added (% of GDP)",economy,https://data.worldbank.org/indicator/NV.SRV.TOTL.ZS,World Development Indicators,NV.SRV.TOTL.ZS.xls,2024.0
+World Bank,SP.URB.TOTL.IN.ZS,Urban population (% of total population),readiness,https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS,World Development Indicators,SP.URB.TOTL.IN.ZS.xls,2024.0
+World Bank,IT.NET.USER.ZS,Individuals using the Internet (% of population),readiness,https://data.worldbank.org/indicator/IT.NET.USER.ZS,ITU World Telecommunication/ICT Indicators Database via World Bank,IT.NET.USER.ZS.xls,2025.0
+World Bank,SE.TER.ENRR,"School enrollment, tertiary (% gross)",readiness,https://data.worldbank.org/indicator/SE.TER.ENRR,World Development Indicators,SE.TER.ENRR.xls,2025.0
+World Bank,GE.EST,Government Effectiveness: Estimate,operations,https://data.worldbank.org/indicator/GE.EST,Worldwide Governance Indicators,GE.EST.xls,2023.0
+World Bank,RL.EST,Rule of Law: Estimate,operations,https://data.worldbank.org/indicator/RL.EST,Worldwide Governance Indicators,RL.EST.xls,2023.0
+World Bank,RQ.EST,Regulatory Quality: Estimate,operations,https://data.worldbank.org/indicator/RQ.EST,Worldwide Governance Indicators,RQ.EST.xls,2023.0
+World Bank,PV.EST,Political Stability and Absence of Violence/Terrorism: Estimate,operations,https://data.worldbank.org/indicator/PV.EST,Worldwide Governance Indicators,PV.EST.xls,2023.0
+World Bank,PA.NUS.GDP.PLI,Price level index (GDP),finance,https://data.worldbank.org/indicator/PA.NUS.GDP.PLI,World Development Indicators,PA.NUS.GDP.PLI.xls,2024.0
+UN Population Division / WPP,,Official WPP 2024 age-specific estimates and Medium projections for demographic series and age-sex pyramids,executed_reference,https://population.un.org/wpp/,Official WPP 2024 age-specific estimates and Medium projections for demographic series and age-sex pyramids,,
+UNESCO UIS,,Extension layer for higher-education and international mobility indicators,registry_only,https://databrowser.uis.unesco.org/,Extension layer for higher-education and international mobility indicators,,
+IMF Data API,,"Extension layer for WEO, trade and direct investment datasets",registry_only,https://data.imf.org/en/Resource-Pages/IMF-API,"Extension layer for WEO, trade and direct investment datasets",,
+OECD SDMX API,,Extension layer for OECD member-country deep dives and SDMX access,registry_only,https://sdmx.oecd.org/public/,Extension layer for OECD member-country deep dives and SDMX access,,
+Bank of Russia,,USD/RUB conversion factor for this analytical run,executed_reference,https://www.cbr.ru/currency_base/daily/,USD/RUB conversion factor for this analytical run,,

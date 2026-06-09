@@ -1,0 +1,24 @@
+country_code,country_name,exclude_reason,source_note
+ABW,Aruba,territory_or_special_case,Manual analytical exclusion from sovereign-country ranking. Kept in master panel for transparency.
+ASM,American Samoa,territory_or_special_case,Manual analytical exclusion from sovereign-country ranking. Kept in master panel for transparency.
+BMU,Bermuda,territory_or_special_case,Manual analytical exclusion from sovereign-country ranking. Kept in master panel for transparency.
+CUW,Curaçao,territory_or_special_case,Manual analytical exclusion from sovereign-country ranking. Kept in master panel for transparency.
+CYM,Cayman Islands,territory_or_special_case,Manual analytical exclusion from sovereign-country ranking. Kept in master panel for transparency.
+FRO,Faroe Islands,territory_or_special_case,Manual analytical exclusion from sovereign-country ranking. Kept in master panel for transparency.
+GIB,Gibraltar,territory_or_special_case,Manual analytical exclusion from sovereign-country ranking. Kept in master panel for transparency.
+GRL,Greenland,territory_or_special_case,Manual analytical exclusion from sovereign-country ranking. Kept in master panel for transparency.
+GUM,Guam,territory_or_special_case,Manual analytical exclusion from sovereign-country ranking. Kept in master panel for transparency.
+HKG,"Hong Kong SAR, China",territory_or_special_case,Manual analytical exclusion from sovereign-country ranking. Kept in master panel for transparency.
+IMN,Isle of Man,territory_or_special_case,Manual analytical exclusion from sovereign-country ranking. Kept in master panel for transparency.
+MAC,"Macao SAR, China",territory_or_special_case,Manual analytical exclusion from sovereign-country ranking. Kept in master panel for transparency.
+MAF,St. Martin (French part),territory_or_special_case,Manual analytical exclusion from sovereign-country ranking. Kept in master panel for transparency.
+MNP,Northern Mariana Islands,territory_or_special_case,Manual analytical exclusion from sovereign-country ranking. Kept in master panel for transparency.
+NCL,New Caledonia,territory_or_special_case,Manual analytical exclusion from sovereign-country ranking. Kept in master panel for transparency.
+PRI,Puerto Rico (US),territory_or_special_case,Manual analytical exclusion from sovereign-country ranking. Kept in master panel for transparency.
+PSE,West Bank and Gaza,territory_or_special_case,Manual analytical exclusion from sovereign-country ranking. Kept in master panel for transparency.
+PYF,French Polynesia,territory_or_special_case,Manual analytical exclusion from sovereign-country ranking. Kept in master panel for transparency.
+SXM,Sint Maarten (Dutch part),territory_or_special_case,Manual analytical exclusion from sovereign-country ranking. Kept in master panel for transparency.
+TCA,Turks and Caicos Islands,territory_or_special_case,Manual analytical exclusion from sovereign-country ranking. Kept in master panel for transparency.
+VGB,British Virgin Islands,territory_or_special_case,Manual analytical exclusion from sovereign-country ranking. Kept in master panel for transparency.
+VIR,Virgin Islands (US),territory_or_special_case,Manual analytical exclusion from sovereign-country ranking. Kept in master panel for transparency.
+XKX,Kosovo,territory_or_special_case,Manual analytical exclusion from sovereign-country ranking. Kept in master panel for transparency.

@@ -1,0 +1,178 @@
+{
+  "model_name": "SAI_MGIMO_V3",
+  "score_type": "open-data index from observed public indicators; not MGIMO student headcount",
+  "weights": {
+    "A_YOUTH_OPPORTUNITY": 0.5,
+    "A_OUTBOUND_MOBILITY_UIS": 0.16,
+    "A_LEGAL_PARTNERSHIP_CONTEXT": 0.12,
+    "A_PROGRAM_RELEVANCE": 0.08,
+    "A_AFFORDABILITY_ACCESS": 0.06,
+    "A_DIGITAL_REACH": 0.04,
+    "A_DATAQ": 0.04
+  },
+  "hard_filters": [
+    "unfriendly_430r",
+    "domestic_russia",
+    "non_sovereign_or_special"
+  ],
+  "required_open_indicators": [
+    "pop_15_24_latest",
+    "pop_15_24_growth_10y_pct",
+    "uis_outbound_mobility_ratio",
+    "internet_users_pct",
+    "gdp_pc_ppp_current",
+    "program_relevance_score"
+  ],
+  "uis_component_policy": {
+    "component": "A_OUTBOUND_MOBILITY_UIS",
+    "source_key": "unesco_uis_uis006_mor_5t8_40510",
+    "source_name": "UNESCO DataHub UIS",
+    "dataset_id": "uis006",
+    "indicator_id": "MOR.5T8.40510",
+    "indicator_label": "Outbound mobility ratio, all regions, both sexes (UIS estimate) (%)",
+    "missing_country_policy": "countries without a UIS row receive no SAI score or rank"
+  },
+  "flow_policy": "modelled map arrows show attraction potential from open indicators; they are not factual MGIMO student headcounts",
+  "top20_practical": [
+    {
+      "rank_practical_student_recruitment": 1,
+      "iso3": "NGA",
+      "country": "Nigeria",
+      "SAI_MGIMO_V3_SCORE": 72.32919317075454,
+      "student_recruitment_status": "practical_priority_pool"
+    },
+    {
+      "rank_practical_student_recruitment": 2,
+      "iso3": "GNQ",
+      "country": "Equatorial Guinea",
+      "SAI_MGIMO_V3_SCORE": 71.34140402871041,
+      "student_recruitment_status": "practical_priority_pool"
+    },
+    {
+      "rank_practical_student_recruitment": 3,
+      "iso3": "COD",
+      "country": "Congo, Dem. Rep.",
+      "SAI_MGIMO_V3_SCORE": 70.31333794542492,
+      "student_recruitment_status": "practical_priority_pool"
+    },
+    {
+      "rank_practical_student_recruitment": 4,
+      "iso3": "EGY",
+      "country": "Egypt, Arab Rep.",
+      "SAI_MGIMO_V3_SCORE": 69.95294946432622,
+      "student_recruitment_status": "practical_priority_pool"
+    },
+    {
+      "rank_practical_student_recruitment": 5,
+      "iso3": "ARE",
+      "country": "United Arab Emirates",
+      "SAI_MGIMO_V3_SCORE": 68.61664641924182,
+      "student_recruitment_status": "practical_priority_pool"
+    },
+    {
+      "rank_practical_student_recruitment": 6,
+      "iso3": "DJI",
+      "country": "Djibouti",
+      "SAI_MGIMO_V3_SCORE": 68.61476962194496,
+      "student_recruitment_status": "practical_priority_pool"
+    },
+    {
+      "rank_practical_student_recruitment": 7,
+      "iso3": "TZA",
+      "country": "Tanzania",
+      "SAI_MGIMO_V3_SCORE": 68.5578801610842,
+      "student_recruitment_status": "practical_priority_pool"
+    },
+    {
+      "rank_practical_student_recruitment": 8,
+      "iso3": "MWI",
+      "country": "Malawi",
+      "SAI_MGIMO_V3_SCORE": 68.24095343481251,
+      "student_recruitment_status": "practical_priority_pool"
+    },
+    {
+      "rank_practical_student_recruitment": 9,
+      "iso3": "TCD",
+      "country": "Chad",
+      "SAI_MGIMO_V3_SCORE": 68.11748858521264,
+      "student_recruitment_status": "practical_priority_pool"
+    },
+    {
+      "rank_practical_student_recruitment": 10,
+      "iso3": "MEX",
+      "country": "Mexico",
+      "SAI_MGIMO_V3_SCORE": 68.05669582769028,
+      "student_recruitment_status": "practical_priority_pool"
+    },
+    {
+      "rank_practical_student_recruitment": 11,
+      "iso3": "AGO",
+      "country": "Angola",
+      "SAI_MGIMO_V3_SCORE": 68.02352450369692,
+      "student_recruitment_status": "practical_priority_pool"
+    },
+    {
+      "rank_practical_student_recruitment": 12,
+      "iso3": "PHL",
+      "country": "Philippines",
+      "SAI_MGIMO_V3_SCORE": 67.53355794087017,
+      "student_recruitment_status": "practical_priority_pool"
+    },
+    {
+      "rank_practical_student_recruitment": 13,
+      "iso3": "IRQ",
+      "country": "Iraq",
+      "SAI_MGIMO_V3_SCORE": 67.45911853297955,
+      "student_recruitment_status": "practical_priority_pool"
+    },
+    {
+      "rank_practical_student_recruitment": 14,
+      "iso3": "ETH",
+      "country": "Ethiopia",
+      "SAI_MGIMO_V3_SCORE": 67.29851129305963,
+      "student_recruitment_status": "practical_priority_pool"
+    },
+    {
+      "rank_practical_student_recruitment": 15,
+      "iso3": "KEN",
+      "country": "Kenya",
+      "SAI_MGIMO_V3_SCORE": 67.25766156735719,
+      "student_recruitment_status": "practical_priority_pool"
+    },
+    {
+      "rank_practical_student_recruitment": 16,
+      "iso3": "SEN",
+      "country": "Senegal",
+      "SAI_MGIMO_V3_SCORE": 66.94120439476123,
+      "student_recruitment_status": "practical_priority_pool"
+    },
+    {
+      "rank_practical_student_recruitment": 17,
+      "iso3": "PAK",
+      "country": "Pakistan",
+      "SAI_MGIMO_V3_SCORE": 66.85323875892492,
+      "student_recruitment_status": "practical_priority_pool"
+    },
+    {
+      "rank_practical_student_recruitment": 18,
+      "iso3": "TUR",
+      "country": "Türkiye",
+      "SAI_MGIMO_V3_SCORE": 66.83903462891713,
+      "student_recruitment_status": "practical_priority_pool"
+    },
+    {
+      "rank_practical_student_recruitment": 19,
+      "iso3": "CIV",
+      "country": "Côte d'Ivoire",
+      "SAI_MGIMO_V3_SCORE": 66.70200004069213,
+      "student_recruitment_status": "practical_priority_pool"
+    },
+    {
+      "rank_practical_student_recruitment": 20,
+      "iso3": "UGA",
+      "country": "Uganda",
+      "SAI_MGIMO_V3_SCORE": 66.68218756401333,
+      "student_recruitment_status": "practical_priority_pool"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+provider,module,purpose,official_api_or_docs
+World Bank,executed,"Core historical demography, economy, readiness, governance and price level indicators",https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-about-the-indicators-api-documentation
+UN Population Division / WPP,executed_reference,Official WPP 2024 age-specific estimates and Medium projections for demographic series and age-sex pyramids,https://population.un.org/wpp/
+UNESCO UIS,registry_only,Extension layer for higher-education and international mobility indicators,https://databrowser.uis.unesco.org/
+IMF Data API,registry_only,"Extension layer for WEO, trade and direct investment datasets",https://data.imf.org/en/Resource-Pages/IMF-API
+OECD SDMX API,registry_only,Extension layer for OECD member-country deep dives and SDMX-native access,https://sdmx.oecd.org/public/
+Bank of Russia,executed_reference,USD/RUB conversion factor for this analytical run,https://www.cbr.ru/currency_base/daily/

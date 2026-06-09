@@ -1,0 +1,24 @@
+model: SAI_MGIMO_V3
+purpose_ru: >
+  Приоритетность стран для привлечения иностранных студентов в МГИМО в Москве.
+  Это отдельная модель, не модель открытия зарубежных филиалов.
+score_scale: 0_100
+aggregation: additive_weighted_sum
+hard_filters:
+  - unfriendly_430r
+  - domestic_russia
+  - non_sovereign_or_special
+weights:
+  A_YOUTH_OPPORTUNITY: 0.5
+  A_OUTBOUND_MOBILITY_UIS: 0.16
+  A_LEGAL_PARTNERSHIP_CONTEXT: 0.12
+  A_PROGRAM_RELEVANCE: 0.08
+  A_AFFORDABILITY_ACCESS: 0.06
+  A_DIGITAL_REACH: 0.04
+  A_DATAQ: 0.04
+
+observed_flows_policy: >
+  Если country-level данные МГИМО о фактических иностранных студентах отсутствуют,
+  карта потоков показывает только modelled_potential_not_observed и не использует
+  слово «фактический поток».
+uis_source_required: true

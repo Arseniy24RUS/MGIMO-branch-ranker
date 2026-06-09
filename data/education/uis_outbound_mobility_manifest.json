@@ -1,0 +1,13 @@
+{
+  "source_key": "unesco_uis_uis006_mor_5t8_40510",
+  "source_name": "UNESCO DataHub UIS",
+  "dataset_id": "uis006",
+  "indicator_id": "MOR.5T8.40510",
+  "indicator_label": "Outbound mobility ratio, all regions, both sexes (UIS estimate) (%)",
+  "records_returned": 3015,
+  "api_total_count": 3015,
+  "country_count": 196,
+  "retrieved_at": "2026-06-08T17:45:56+00:00",
+  "raw_url": "https://data.unesco.org/api/explore/v2.1/catalog/datasets/uis006/records?where=indicator_id%3D%22MOR.5T8.40510%22&limit=100&offset=0&timezone=UTC",
+  "output_csv": "data/education/uis_outbound_mobility.csv"
+}

@@ -1,0 +1,143 @@
+project:
+  name: mgimo_branch_ranker_hybrid
+  version: 0.3.0
+  base_year: 2026
+  target_years:
+  - 2026
+  - 2035
+  - 2050
+rules:
+  hard_exclude_unfriendly: true
+  hard_exclude_existing_branch: true
+  hard_exclude_domestic_russia: true
+  hard_exclude_non_sovereign_or_special: true
+  existing_branch_iso3:
+  - KAZ
+  - UZB
+  pipeline_iso3:
+  - VNM
+  existing_platform_iso3:
+  - CHE
+  keep_unfriendly_in_diagnostics: true
+  min_data_quality_for_priority: 0.4
+  hard_exclude_non_sovereign: true
+weights:
+  I_MARKET: 0.22
+  I_PROGRAM: 0.12
+  I_RUSCOMP: 0.16
+  I_ECO: 0.14
+  I_FIN: 0.16
+  I_FEAS: 0.14
+  I_HRSTRAT: 0.06
+normalization:
+  q_low: 0.05
+  q_high: 0.95
+  epsilon: 0.05
+financial:
+  currency: USD
+  horizon_years: 10
+  discount_rate: 0.11
+  tuition_reference_usd_ba: 7200
+  tuition_reference_usd_ma: 6700
+  reference_gdp_pc_ppp: 35000
+  base_conversion_rate: 0.00015
+  scholarship_discount: 0.15
+  collection_rate: 0.96
+  risk_premium_max: 0.22
+  capex_contingency: 0.1
+  capture_midpoint_year: 3.5
+  capture_steepness: 0.9
+  partner_capture_bonus: 0.08
+  strategic_partner_capture_bonus: 0.06
+  competition_capture_penalty: 0.05
+  host_subsidy_share: 0.0
+  partner_host_subsidy_share: 0.08
+  finance_mc_iterations: 10
+  finance_mc_seed: 42
+  mc_tuition_sigma: 0.08
+  mc_opex_sigma: 0.12
+  mc_capture_sigma: 0.25
+  mc_capex_sigma: 0.1
+  mc_subsidy_share_sigma: 0.03
+  formats:
+    partner_embedded_branch:
+      capacity_students: 600
+      capex_tradables_usd: 450000
+      capex_nontradables_base_usd: 1250000
+      capex_regulatory_usd: 250000
+      fixed_opex_usd: 720000
+      variable_opex_per_student_usd: 1650
+      area_m2_per_student: 4
+      capture_midpoint_year: 2.8
+      capture_steepness: 1.05
+      minimum_launch_students: 25
+      host_subsidy_share: 0.08
+      execed_revenue_year10_usd: 120000
+    urban_standard_branch:
+      capacity_students: 1400
+      capex_tradables_usd: 1250000
+      capex_nontradables_base_usd: 5200000
+      capex_regulatory_usd: 550000
+      fixed_opex_usd: 1850000
+      variable_opex_per_student_usd: 2200
+      area_m2_per_student: 6
+      capture_midpoint_year: 3.6
+      capture_steepness: 0.9
+      minimum_launch_students: 40
+      execed_revenue_year10_usd: 320000
+    flagship_regional_hub:
+      capacity_students: 2500
+      capex_tradables_usd: 4200000
+      capex_nontradables_base_usd: 21000000
+      capex_regulatory_usd: 1300000
+      fixed_opex_usd: 5600000
+      variable_opex_per_student_usd: 3100
+      area_m2_per_student: 9
+      capture_midpoint_year: 4.5
+      capture_steepness: 0.75
+      minimum_launch_students: 75
+      execed_revenue_year10_usd: 950000
+indicators:
+  world_bank:
+    gdp_ppp_current: NY.GDP.MKTP.PP.CD
+    gdp_pc_ppp_current: NY.GDP.PCAP.PP.CD
+    gdp_growth_real: NY.GDP.MKTP.KD.ZG
+    gni_pc_ppp_current: NY.GNP.PCAP.PP.CD
+    inflation_cpi: FP.CPI.TOTL.ZG
+    unemployment: SL.UEM.TOTL.ZS
+    tertiary_enrollment_gross: SE.TER.ENRR
+    secondary_completion_upper: SE.SEC.CMPT.UP.ZS
+    school_enrollment_secondary: SE.SEC.ENRR
+    internet_users: IT.NET.USER.ZS
+    urban_population_pct: SP.URB.TOTL.IN.ZS
+    industry_value_added: NV.IND.TOTL.ZS
+    manufacturing_value_added: NV.IND.MANF.ZS
+    services_value_added: NV.SRV.TOTL.ZS
+    trade_percent_gdp: NE.TRD.GNFS.ZS
+    fdi_inflows_percent_gdp: BX.KLT.DINV.WD.GD.ZS
+    wgi_political_stability: PV.EST
+    wgi_government_effectiveness: GE.EST
+    wgi_regulatory_quality: RQ.EST
+    wgi_rule_of_law: RL.EST
+    wgi_control_corruption: CC.EST
+    lpi_overall: LP.LPI.OVRL.XQ
+    price_level_index: PA.NUS.GDP.PLI
+  imf_datamapper:
+    real_gdp_growth: NGDP_RPCH
+    gdp_usd: NGDPD
+    inflation: PCPIPCH
+    unemployment: LUR
+  un_wpp:
+    source_key: un_wpp2024_population_by_single_age_sex
+    source_name: UN World Population Prospects 2024
+    age_sex_historical_path: data/demography/raw/wpp2024/WPP2024_PopulationBySingleAgeSex_Medium_1950-2023.csv.gz
+    age_sex_projection_path: data/demography/raw/wpp2024/WPP2024_PopulationBySingleAgeSex_Medium_2024-2100.csv.gz
+    age_min: 15
+    age_max: 24
+    variant_label: Medium
+  optional_modules:
+    uis_api: true
+    ilostat_sdmx_or_bulk: true
+    un_comtrade_api: true
+    unctad_data_hub: true
+    oecd_sdmx: true
