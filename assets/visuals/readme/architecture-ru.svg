@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">Поток работы доказательных дашбордов МГИМО</title>
+  <desc id="desc">Открытые данные и модельные выгрузки собираются в локальные статические payloads для двух отдельных двуязычных дашбордов.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="13" markerHeight="13" refX="10" refY="6.5" orient="auto">
+      <path d="M1 1 L12 6.5 L1 12 Z" fill="#04224d"/>
+    </marker>
+    <style>
+      text{font-family:Arial,Helvetica,sans-serif;fill:#061b3d}
+      .title{font-size:32px;font-weight:800}
+      .sub{font-size:22px;font-weight:600}
+      .box{fill:#eef4fb;stroke:#1c5fa8;stroke-width:3;rx:18}
+      .boxAlt{fill:#fff8e5;stroke:#d7a72f;stroke-width:3;rx:18}
+      .num{font-size:24px;font-weight:900;fill:#0b579c}
+      .label{font-size:25px;font-weight:900}
+      .line{font-size:22px;font-weight:600}
+      .arrow{stroke:#04224d;stroke-width:4;fill:none;marker-end:url(#arrow)}
+      .note{fill:#04224d}
+      .noteText{fill:white;font-size:21px;font-weight:700}
+    </style>
+  </defs>
+  <rect width="900" height="900" fill="#ffffff"/>
+  <text x="70" y="58" class="title">Поток работы дашбордов МГИМО</text>
+  <text x="70" y="92" class="sub">Филиальный рейтинг и студенческая модель считаются отдельно.</text>
+
+  <rect x="90" y="130" width="720" height="112" class="box"/>
+  <text x="122" y="172" class="num">1</text>
+  <text x="172" y="172" class="label">Открытые источники</text>
+  <text x="172" y="205" class="line">UN WPP, UIS, WDI, управление, логистика,</text>
+  <text x="172" y="232" class="line">партнёры, ограничения и справочники МГИМО.</text>
+
+  <path class="arrow" d="M450 252 V292"/>
+
+  <rect x="90" y="302" width="720" height="112" class="boxAlt"/>
+  <text x="122" y="344" class="num">2</text>
+  <text x="172" y="344" class="label">Воспроизводимая сборка</text>
+  <text x="172" y="377" class="line">Python-скрипты строят рейтинги, финансы,</text>
+  <text x="172" y="404" class="line">следы показателей и паспорта источников.</text>
+
+  <path class="arrow" d="M450 424 V464"/>
+
+  <rect x="90" y="474" width="720" height="112" class="box"/>
+  <text x="122" y="516" class="num">3</text>
+  <text x="172" y="516" class="label">Локальные статические данные</text>
+  <text x="172" y="549" class="line">docs/data содержит JSON, CSV, GeoJSON,</text>
+  <text x="172" y="576" class="line">модельные выгрузки и словари интерфейса.</text>
+
+  <path class="arrow" d="M450 596 V636"/>
+
+  <rect x="90" y="646" width="720" height="112" class="boxAlt"/>
+  <text x="122" y="688" class="num">4</text>
+  <text x="172" y="688" class="label">Два статических дашборда</text>
+  <text x="172" y="721" class="line">Филиалы: семифакторный индекс;</text>
+  <text x="172" y="748" class="line">студенты: отдельный SAI_MGIMO_V3.</text>
+
+  <rect x="90" y="796" width="720" height="82" rx="16" class="note"/>
+  <text x="118" y="828" class="noteText">Каждое значение должно иметь источник, год,</text>
+  <text x="118" y="856" class="noteText">исходное значение, нормировку и вес.</text>
+</svg>

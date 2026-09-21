@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">MGIMO branch and student dashboard workflow</title>
+  <desc id="desc">Open data and model outputs are prepared into local static payloads for two separate bilingual dashboards.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="13" markerHeight="13" refX="10" refY="6.5" orient="auto">
+      <path d="M1 1 L12 6.5 L1 12 Z" fill="#04224d"/>
+    </marker>
+    <style>
+      text{font-family:Arial,Helvetica,sans-serif;fill:#061b3d}
+      .title{font-size:32px;font-weight:800}
+      .sub{font-size:22px;font-weight:600}
+      .box{fill:#eef4fb;stroke:#1c5fa8;stroke-width:3;rx:18}
+      .boxAlt{fill:#fff8e5;stroke:#d7a72f;stroke-width:3;rx:18}
+      .num{font-size:24px;font-weight:900;fill:#0b579c}
+      .label{font-size:25px;font-weight:900}
+      .line{font-size:22px;font-weight:600}
+      .arrow{stroke:#04224d;stroke-width:4;fill:none;marker-end:url(#arrow)}
+      .note{fill:#04224d}
+      .noteText{fill:white;font-size:21px;font-weight:700}
+    </style>
+  </defs>
+  <rect width="900" height="900" fill="#ffffff"/>
+  <text x="70" y="58" class="title">MGIMO evidence dashboard workflow</text>
+  <text x="70" y="92" class="sub">Branch ranking and student attraction stay separate.</text>
+
+  <rect x="90" y="130" width="720" height="112" class="box"/>
+  <text x="122" y="172" class="num">1</text>
+  <text x="172" y="172" class="label">Open source inputs</text>
+  <text x="172" y="205" class="line">UN WPP, UIS, WDI, governance, logistics,</text>
+  <text x="172" y="232" class="line">partners, restrictions and MGIMO references.</text>
+
+  <path class="arrow" d="M450 252 V292"/>
+
+  <rect x="90" y="302" width="720" height="112" class="boxAlt"/>
+  <text x="122" y="344" class="num">2</text>
+  <text x="172" y="344" class="label">Reproducible model build</text>
+  <text x="172" y="377" class="line">Python scripts create rankings, finance,</text>
+  <text x="172" y="404" class="line">indicator traces and source manifests.</text>
+
+  <path class="arrow" d="M450 424 V464"/>
+
+  <rect x="90" y="474" width="720" height="112" class="box"/>
+  <text x="122" y="516" class="num">3</text>
+  <text x="172" y="516" class="label">Local static payloads</text>
+  <text x="172" y="549" class="line">docs/data contains JSON, CSV, GeoJSON,</text>
+  <text x="172" y="576" class="line">model outputs and bilingual UI strings.</text>
+
+  <path class="arrow" d="M450 596 V636"/>
+
+  <rect x="90" y="646" width="720" height="112" class="boxAlt"/>
+  <text x="122" y="688" class="num">4</text>
+  <text x="172" y="688" class="label">Two static dashboards</text>
+  <text x="172" y="721" class="line">Branch index uses seven-factor geometry;</text>
+  <text x="172" y="748" class="line">SAI_MGIMO_V3 models student attraction.</text>
+
+  <rect x="90" y="796" width="720" height="82" rx="16" class="note"/>
+  <text x="118" y="828" class="noteText">Each displayed value should trace to source,</text>
+  <text x="118" y="856" class="noteText">year, raw value, normalization and weight.</text>
+</svg>
